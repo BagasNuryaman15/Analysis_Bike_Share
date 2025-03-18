@@ -19,7 +19,7 @@ Sebelum menjalankan dashboard, pastikan kamu sudah menginstal:
 Clone repository ini ke komputer kamu:
 ```sh
 [git clone https://github.com/username/dicoding-collection-dashboard.git
-cd dicoding-collection-dashboard](https://github.com/BagasNuryaman15/Submmision_Bike_Share.git)
+cd dicoding-collection-dashboard](https://github.com/BagasNuryaman15/Submmision_Bike_Share.git)](https://github.com/BagasNuryaman15/Analysis_Bike_Share.git)
 ```
 
 ### **2. Buat Virtual Environment (Opsional)**
