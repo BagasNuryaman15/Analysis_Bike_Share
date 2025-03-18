@@ -1,6 +1,6 @@
 # Dicoding Collection Dashboard
 
-Dashboard ini dibuat untuk menganalisis data **Dicoding Collection** dan memberikan visualisasi yang interaktif.
+Dashboard ini dibuat untuk menganalisis data **Capital Bike Shate** dan memberikan visualisasi yang interaktif.
 
 ---
 
