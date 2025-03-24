@@ -1,0 +1,732 @@
+index,Tanggal,Musim,Tahun,Bulan,Hari,Libur,Kerja,Cuaca,Suhu,Suhu_Terasa,Kategori_Suhu_Terasa,Kelembapan,Kategori_Kelembapan,Kecepatan_Angin,Kategori_Angin,Non_member,Member,Total
+1,2011-01-01,Musim Dingin,2011,Januari,Sabtu,Tidak,Tidak,Kabut/Berawan,14.110847,18.18125,Nyaman,80.58330000000001,Sangat Lembap,10.749882,Sepoi Sepoi,331,654,985
+2,2011-01-02,Musim Dingin,2011,Januari,Minggu,Tidak,Tidak,Kabut/Berawan,14.902598000000001,17.686950000000003,Nyaman,69.6087,Lembap,16.652113,Sepoi Sepoi,131,670,801
+3,2011-01-03,Musim Dingin,2011,Januari,Senin,Tidak,Ya,Cerah/Berawan,8.050924,9.47025,Dingin,43.7273,Nyaman,16.636703,Sepoi Sepoi,120,1229,1349
+4,2011-01-04,Musim Dingin,2011,Januari,Selasa,Tidak,Ya,Cerah/Berawan,8.200000000000001,10.6061,Dingin,59.0435,Nyaman,10.739832,Sepoi Sepoi,108,1454,1562
+5,2011-01-05,Musim Dingin,2011,Januari,Rabu,Tidak,Ya,Cerah/Berawan,9.305237,11.4635,Dingin,43.695699999999995,Nyaman,12.522300000000001,Sepoi Sepoi,82,1518,1600
+6,2011-01-06,Musim Dingin,2011,Januari,Kamis,Tidak,Ya,Cerah/Berawan,8.378268,11.66045,Dingin,51.8261,Nyaman,6.0008684,Tenang,88,1518,1606
+7,2011-01-07,Musim Dingin,2011,Januari,Jumat,Tidak,Ya,Kabut/Berawan,8.057402,10.44195,Dingin,49.8696,Nyaman,11.304642,Sepoi Sepoi,148,1362,1510
+8,2011-01-08,Musim Dingin,2011,Januari,Sabtu,Tidak,Tidak,Kabut/Berawan,6.765000000000001,8.1127,Dingin,53.5833,Nyaman,17.875868,Sepoi Sepoi,68,891,959
+9,2011-01-09,Musim Dingin,2011,Januari,Minggu,Tidak,Tidak,Cerah/Berawan,5.671653,5.80875,Dingin,43.416700000000006,Nyaman,24.25065,Sedang,54,768,822
+10,2011-01-10,Musim Dingin,2011,Januari,Senin,Tidak,Ya,Cerah/Berawan,6.184153,7.5443999999999996,Dingin,48.2917,Nyaman,14.958889,Sepoi Sepoi,41,1280,1321
+11,2011-01-11,Musim Dingin,2011,Januari,Selasa,Tidak,Ya,Kabut/Berawan,6.9327309999999995,9.5732,Dingin,68.6364,Lembap,8.182844000000001,Tenang,43,1220,1263
+12,2011-01-12,Musim Dingin,2011,Januari,Rabu,Tidak,Ya,Cerah/Berawan,7.0818069999999995,8.02365,Dingin,59.954499999999996,Nyaman,20.410009,Sedang,25,1137,1162
+13,2011-01-13,Musim Dingin,2011,Januari,Kamis,Tidak,Ya,Cerah/Berawan,6.765000000000001,7.544149999999999,Dingin,47.0417,Nyaman,20.166999999999998,Sedang,38,1368,1406
+14,2011-01-14,Musim Dingin,2011,Januari,Jumat,Tidak,Ya,Cerah/Berawan,6.59567,9.42065,Dingin,53.7826,Nyaman,8.478716,Tenang,54,1367,1421
+15,2011-01-15,Musim Dingin,2011,Januari,Sabtu,Tidak,Tidak,Kabut/Berawan,9.566653,12.4056,Dingin,49.875,Nyaman,10.583521,Sepoi Sepoi,222,1026,1248
+16,2011-01-16,Musim Dingin,2011,Januari,Minggu,Tidak,Tidak,Cerah/Berawan,9.498347,11.71085,Dingin,48.375,Nyaman,12.625010999999999,Sepoi Sepoi,251,953,1204
+17,2011-01-17,Musim Dingin,2011,Januari,Senin,Ya,Tidak,Kabut/Berawan,7.209153,8.838550000000001,Dingin,53.75,Nyaman,12.999139,Sepoi Sepoi,117,883,1000
+18,2011-01-18,Musim Dingin,2011,Januari,Selasa,Tidak,Ya,Kabut/Berawan,8.883347,11.61665,Dingin,86.16669999999999,Ekstrem Lembap,9.833924999999999,Tenang,9,674,683
+19,2011-01-19,Musim Dingin,2011,Januari,Rabu,Tidak,Ya,Kabut/Berawan,11.979134,14.921100000000001,Dingin,74.1739,Lembap,13.957239,Sepoi Sepoi,78,1572,1650
+20,2011-01-20,Musim Dingin,2011,Januari,Kamis,Tidak,Ya,Kabut/Berawan,10.728347,12.7525,Dingin,53.833299999999994,Nyaman,13.125568,Sepoi Sepoi,83,1844,1927
+21,2011-01-21,Musim Dingin,2011,Januari,Jumat,Tidak,Ya,Cerah/Berawan,7.2775,7.89165,Dingin,45.7083,Nyaman,23.667214,Sedang,75,1468,1543
+22,2011-01-22,Musim Dingin,2011,Januari,Sabtu,Tidak,Tidak,Cerah/Berawan,2.4243464,3.9534800000000003,Sangat Dingin,40.0,Kering,11.52199,Sepoi Sepoi,93,888,981
+23,2011-01-23,Musim Dingin,2011,Januari,Minggu,Tidak,Tidak,Cerah/Berawan,3.9573897000000002,4.941955,Sangat Dingin,43.6522,Nyaman,16.5222,Sepoi Sepoi,150,836,986
+24,2011-01-24,Musim Dingin,2011,Januari,Senin,Tidak,Ya,Cerah/Berawan,3.9930433,5.8965,Dingin,49.173899999999996,Nyaman,10.60811,Sepoi Sepoi,86,1330,1416
+25,2011-01-25,Musim Dingin,2011,Januari,Selasa,Tidak,Ya,Kabut/Berawan,9.162598000000001,11.7263,Dingin,61.695699999999995,Lembap,8.696332,Tenang,186,1799,1985
+26,2011-01-26,Musim Dingin,2011,Januari,Rabu,Tidak,Ya,Hujan/Salju Ringan,8.9175,10.18,Dingin,86.25,Ekstrem Lembap,19.68795,Sepoi Sepoi,34,472,506
+27,2011-01-27,Musim Dingin,2011,Januari,Kamis,Tidak,Ya,Cerah/Berawan,7.995,10.985,Dingin,68.75,Lembap,7.627078999999999,Tenang,15,416,431
+28,2011-01-28,Musim Dingin,2011,Januari,Jumat,Tidak,Ya,Kabut/Berawan,8.342597999999999,11.165849999999999,Dingin,79.30430000000001,Sangat Lembap,8.2611,Tenang,38,1129,1167
+29,2011-01-29,Musim Dingin,2011,Januari,Sabtu,Tidak,Tidak,Cerah/Berawan,8.057402,10.606300000000001,Dingin,65.17389999999999,Lembap,9.739455,Tenang,123,975,1098
+30,2011-01-30,Musim Dingin,2011,Januari,Minggu,Tidak,Tidak,Cerah/Berawan,8.877402,12.5161,Dingin,72.2174,Lembap,4.956834199999999,Tenang,140,956,1096
+31,2011-01-31,Musim Dingin,2011,Januari,Senin,Tidak,Ya,Kabut/Berawan,7.414153,9.3125,Dingin,60.375,Lembap,12.541864,Sepoi Sepoi,42,1459,1501
+32,2011-02-01,Musim Dingin,2011,Februari,Selasa,Tidak,Ya,Kabut/Berawan,7.8791340000000005,11.7265,Dingin,82.9565,Sangat Lembap,3.565271,Tenang,47,1313,1360
+33,2011-02-02,Musim Dingin,2011,Februari,Rabu,Tidak,Ya,Kabut/Berawan,10.66,12.72085,Dingin,77.5417,Sangat Lembap,17.708636,Sepoi Sepoi,72,1454,1526
+34,2011-02-03,Musim Dingin,2011,Februari,Kamis,Tidak,Ya,Cerah/Berawan,7.665237,8.8939,Dingin,43.7826,Nyaman,18.609384,Sepoi Sepoi,61,1489,1550
+35,2011-02-04,Musim Dingin,2011,Februari,Jumat,Tidak,Ya,Kabut/Berawan,8.663464,11.429350000000001,Dingin,58.521699999999996,Nyaman,8.565213,Tenang,88,1620,1708
+36,2011-02-05,Musim Dingin,2011,Februari,Sabtu,Tidak,Tidak,Kabut/Berawan,9.566653,12.152899999999999,Dingin,92.91669999999999,Ekstrem Lembap,10.792293,Sepoi Sepoi,100,905,1005
+37,2011-02-06,Musim Dingin,2011,Februari,Minggu,Tidak,Tidak,Cerah/Berawan,11.719153,14.58355,Dingin,56.833299999999994,Nyaman,9.5006,Tenang,354,1269,1623
+38,2011-02-07,Musim Dingin,2011,Februari,Senin,Tidak,Ya,Cerah/Berawan,11.138347,15.1829,Nyaman,73.83330000000001,Lembap,3.0423561,Tenang,120,1592,1712
+39,2011-02-08,Musim Dingin,2011,Februari,Selasa,Tidak,Ya,Cerah/Berawan,9.054153,9.9123,Dingin,53.7917,Nyaman,24.25065,Sedang,64,1466,1530
+40,2011-02-09,Musim Dingin,2011,Februari,Rabu,Tidak,Ya,Kabut/Berawan,5.526102999999999,7.21415,Dingin,49.4783,Nyaman,12.652213,Sepoi Sepoi,53,1552,1605
+41,2011-02-10,Musim Dingin,2011,Februari,Kamis,Tidak,Ya,Cerah/Berawan,5.918268,7.477399999999999,Dingin,43.7391,Nyaman,14.869645,Sepoi Sepoi,47,1491,1538
+42,2011-02-11,Musim Dingin,2011,Februari,Jumat,Tidak,Ya,Cerah/Berawan,7.752731000000001,10.67545,Dingin,50.6364,Nyaman,7.272849999999999,Tenang,149,1597,1746
+43,2011-02-12,Musim Dingin,2011,Februari,Sabtu,Tidak,Tidak,Cerah/Berawan,9.1225,11.6477,Dingin,54.4167,Nyaman,13.625589,Sepoi Sepoi,288,1184,1472
+44,2011-02-13,Musim Dingin,2011,Februari,Minggu,Tidak,Tidak,Cerah/Berawan,12.977402000000001,16.20565,Nyaman,45.7391,Nyaman,17.479160999999998,Sepoi Sepoi,397,1192,1589
+45,2011-02-14,Musim Dingin,2011,Februari,Senin,Tidak,Ya,Cerah/Berawan,17.015,19.9175,Nyaman,37.583299999999994,Kering,27.999836,Sedang,208,1705,1913
+46,2011-02-15,Musim Dingin,2011,Februari,Selasa,Tidak,Ya,Cerah/Berawan,10.909567000000001,12.7137,Dingin,31.434800000000003,Kering,19.522058,Sepoi Sepoi,140,1675,1815
+47,2011-02-16,Musim Dingin,2011,Februari,Rabu,Tidak,Ya,Cerah/Berawan,13.048701000000001,15.809999999999999,Nyaman,42.3478,Nyaman,16.869996999999998,Sepoi Sepoi,218,1897,2115
+48,2011-02-17,Musim Dingin,2011,Februari,Kamis,Tidak,Ya,Cerah/Berawan,17.869153,21.4329,Nyaman,50.5,Nyaman,15.416968,Sepoi Sepoi,259,2216,2475
+49,2011-02-18,Musim Dingin,2011,Februari,Jumat,Tidak,Ya,Cerah/Berawan,21.388347,25.599149999999998,Hangat,51.6667,Nyaman,17.749975000000003,Sepoi Sepoi,579,2348,2927
+50,2011-02-19,Musim Dingin,2011,Februari,Sabtu,Tidak,Tidak,Cerah/Berawan,16.365847,19.5702,Nyaman,83.58330000000001,Sangat Lembap,34.000021,Sedang,532,1103,1635
+51,2011-02-20,Musim Dingin,2011,Februari,Minggu,Tidak,Tidak,Cerah/Berawan,11.693897,13.8665,Dingin,40.7826,Nyaman,14.956745,Sepoi Sepoi,639,1173,1812
+52,2011-02-21,Musim Dingin,2011,Februari,Senin,Ya,Tidak,Kabut/Berawan,12.436653000000002,14.203750000000001,Dingin,60.5,Lembap,20.625682,Sedang,195,912,1107
+53,2011-02-22,Musim Dingin,2011,Februari,Selasa,Tidak,Ya,Cerah/Berawan,7.471102,9.30165,Dingin,57.7778,Nyaman,13.110761,Sepoi Sepoi,74,1376,1450
+54,2011-02-23,Musim Dingin,2011,Februari,Rabu,Tidak,Ya,Cerah/Berawan,9.091299,12.28585,Dingin,42.3043,Nyaman,6.3055710000000005,Tenang,139,1778,1917
+55,2011-02-24,Musim Dingin,2011,Februari,Kamis,Tidak,Ya,Kabut/Berawan,12.121732000000002,14.459549999999998,Dingin,69.7391,Lembap,16.783231999999998,Sepoi Sepoi,100,1707,1807
+56,2011-02-25,Musim Dingin,2011,Februari,Jumat,Tidak,Ya,Kabut/Berawan,14.938268,17.52305,Nyaman,71.2174,Lembap,23.218113,Sedang,120,1341,1461
+57,2011-02-26,Musim Dingin,2011,Februari,Sabtu,Tidak,Tidak,Cerah/Berawan,11.5825,14.1096,Dingin,53.7917,Nyaman,12.500257,Sepoi Sepoi,424,1545,1969
+58,2011-02-27,Musim Dingin,2011,Februari,Minggu,Tidak,Tidak,Cerah/Berawan,14.082598,17.55545,Nyaman,68.0,Lembap,8.391615999999999,Tenang,694,1708,2402
+59,2011-02-28,Musim Dingin,2011,Februari,Senin,Tidak,Ya,Kabut/Berawan,16.698193,20.005899999999997,Nyaman,87.63640000000001,Ekstrem Lembap,19.408962,Sepoi Sepoi,81,1365,1446
+60,2011-03-01,Musim Semi,2011,Maret,Selasa,Tidak,Ya,Cerah/Berawan,10.933347,13.19395,Dingin,53.5,Nyaman,14.500475,Sepoi Sepoi,137,1714,1851
+61,2011-03-02,Musim Semi,2011,Maret,Rabu,Tidak,Ya,Cerah/Berawan,13.735000000000001,16.00355,Nyaman,44.9583,Nyaman,20.624811,Sedang,231,1903,2134
+62,2011-03-03,Musim Semi,2011,Maret,Kamis,Tidak,Ya,Cerah/Berawan,8.131653,10.00665,Dingin,31.833299999999998,Kering,15.125518000000001,Sepoi Sepoi,123,1562,1685
+63,2011-03-04,Musim Semi,2011,Maret,Jumat,Tidak,Ya,Kabut/Berawan,10.728347,12.783949999999999,Dingin,61.0417,Lembap,13.624182,Sepoi Sepoi,214,1730,1944
+64,2011-03-05,Musim Semi,2011,Maret,Sabtu,Tidak,Tidak,Kabut/Berawan,15.750846999999998,18.93895,Nyaman,78.91669999999999,Sangat Lembap,16.875357,Sepoi Sepoi,640,1437,2077
+65,2011-03-06,Musim Semi,2011,Maret,Minggu,Tidak,Tidak,Kabut/Berawan,15.437402,18.3126,Nyaman,94.8261,Ekstrem Lembap,23.000229,Sedang,114,491,605
+66,2011-03-07,Musim Semi,2011,Maret,Senin,Tidak,Ya,Cerah/Berawan,10.731299,11.92305,Dingin,55.1304,Nyaman,22.870584,Sedang,244,1628,1872
+67,2011-03-08,Musim Semi,2011,Maret,Selasa,Tidak,Ya,Cerah/Berawan,11.9925,15.120000000000001,Nyaman,42.0833,Nyaman,8.083549999999999,Tenang,316,1817,2133
+68,2011-03-09,Musim Semi,2011,Maret,Rabu,Tidak,Ya,Kabut/Berawan,12.129153,14.3304,Dingin,77.5417,Sangat Lembap,14.750050000000002,Sepoi Sepoi,191,1700,1891
+69,2011-03-10,Musim Semi,2011,Maret,Kamis,Tidak,Ya,Hujan/Salju Ringan,15.952731,19.2834,Nyaman,71.2491,Lembap,17.545759,Sepoi Sepoi,46,577,623
+70,2011-03-11,Musim Semi,2011,Maret,Jumat,Tidak,Ya,Kabut/Berawan,12.977402000000001,15.25,Nyaman,64.95649999999999,Lembap,15.60899,Sepoi Sepoi,247,1730,1977
+71,2011-03-12,Musim Semi,2011,Maret,Sabtu,Tidak,Tidak,Cerah/Berawan,13.495847,16.287499999999998,Nyaman,59.458299999999994,Nyaman,14.791924999999999,Sepoi Sepoi,724,1408,2132
+72,2011-03-13,Musim Semi,2011,Maret,Minggu,Tidak,Tidak,Cerah/Berawan,15.758268000000001,19.004550000000002,Nyaman,52.73910000000001,Nyaman,18.130468,Sepoi Sepoi,982,1435,2417
+73,2011-03-14,Musim Semi,2011,Maret,Senin,Tidak,Ya,Cerah/Berawan,13.333896999999999,16.6,Nyaman,49.695699999999995,Nyaman,9.174042,Tenang,359,1687,2046
+74,2011-03-15,Musim Semi,2011,Maret,Selasa,Tidak,Ya,Kabut/Berawan,13.013031,15.908900000000001,Nyaman,65.5652,Lembap,12.348703,Sepoi Sepoi,289,1767,2056
+75,2011-03-16,Musim Semi,2011,Maret,Rabu,Tidak,Ya,Kabut/Berawan,14.973897000000001,18.3465,Nyaman,77.65220000000001,Sangat Lembap,13.608839,Sepoi Sepoi,321,1871,2192
+76,2011-03-17,Musim Semi,2011,Maret,Kamis,Tidak,Ya,Cerah/Berawan,17.015,20.51665,Nyaman,60.291700000000006,Lembap,14.041792999999998,Sepoi Sepoi,424,2320,2744
+77,2011-03-18,Musim Semi,2011,Maret,Jumat,Tidak,Ya,Cerah/Berawan,22.14,26.35045,Hangat,52.5217,Nyaman,15.478139,Sepoi Sepoi,884,2355,3239
+78,2011-03-19,Musim Semi,2011,Maret,Sabtu,Tidak,Tidak,Cerah/Berawan,19.3725,23.32625,Nyaman,37.9167,Kering,24.667189,Sedang,1424,1693,3117
+79,2011-03-20,Musim Semi,2011,Maret,Minggu,Tidak,Tidak,Cerah/Berawan,13.6325,16.287499999999998,Nyaman,47.375,Nyaman,13.917307,Sepoi Sepoi,1047,1424,2471
+80,2011-03-21,Musim Semi,2011,Maret,Senin,Tidak,Ya,Kabut/Berawan,17.647835,20.48675,Nyaman,73.73910000000001,Lembap,19.348461,Sepoi Sepoi,401,1676,2077
+81,2011-03-22,Musim Semi,2011,Maret,Selasa,Tidak,Ya,Cerah/Berawan,18.108347,22.0321,Nyaman,62.4583,Lembap,15.125250000000001,Sepoi Sepoi,460,2243,2703
+82,2011-03-23,Musim Semi,2011,Maret,Rabu,Tidak,Ya,Kabut/Berawan,14.225237,16.89695,Nyaman,83.9565,Sangat Lembap,15.695487,Sepoi Sepoi,203,1918,2121
+83,2011-03-24,Musim Semi,2011,Maret,Kamis,Tidak,Ya,Kabut/Berawan,11.684999999999999,13.541649999999999,Dingin,80.58330000000001,Sangat Lembap,16.333729,Sepoi Sepoi,166,1699,1865
+84,2011-03-25,Musim Semi,2011,Maret,Jumat,Tidak,Ya,Cerah/Berawan,10.830846999999999,12.8156,Dingin,49.5,Nyaman,15.458575000000002,Sepoi Sepoi,300,1910,2210
+85,2011-03-26,Musim Semi,2011,Maret,Sabtu,Tidak,Tidak,Cerah/Berawan,10.899153,12.87855,Dingin,39.4167,Kering,14.041257,Sepoi Sepoi,981,1515,2496
+86,2011-03-27,Musim Semi,2011,Maret,Minggu,Tidak,Tidak,Kabut/Berawan,10.374763000000002,12.51695,Dingin,49.3913,Nyaman,12.348099999999999,Sepoi Sepoi,472,1221,1693
+87,2011-03-28,Musim Semi,2011,Maret,Senin,Tidak,Ya,Cerah/Berawan,10.838268000000001,12.878700000000002,Dingin,30.2174,Kering,14.217668,Sepoi Sepoi,222,1806,2028
+88,2011-03-29,Musim Semi,2011,Maret,Selasa,Tidak,Ya,Cerah/Berawan,12.4025,14.6454,Dingin,31.4167,Kering,15.208732,Sepoi Sepoi,317,2108,2425
+89,2011-03-30,Musim Semi,2011,Maret,Rabu,Tidak,Ya,Kabut/Berawan,12.299999999999999,14.8675,Dingin,64.6667,Lembap,11.583495999999998,Sepoi Sepoi,168,1368,1536
+90,2011-03-31,Musim Semi,2011,Maret,Kamis,Tidak,Ya,Hujan/Salju Ringan,11.001653,12.87875,Dingin,91.8333,Ekstrem Lembap,14.582282000000001,Sepoi Sepoi,179,1506,1685
+91,2011-04-01,Musim Semi,2011,April,Jumat,Tidak,Ya,Kabut/Berawan,12.299999999999999,14.172699999999999,Dingin,68.625,Lembap,17.333436,Sepoi Sepoi,307,1920,2227
+92,2011-04-02,Musim Semi,2011,April,Sabtu,Tidak,Tidak,Kabut/Berawan,12.915000000000001,15.78185,Nyaman,65.375,Lembap,13.208782,Sepoi Sepoi,898,1354,2252
+93,2011-04-03,Musim Semi,2011,April,Minggu,Tidak,Tidak,Cerah/Berawan,15.511652999999999,18.93835,Nyaman,48.0,Nyaman,12.208271000000002,Sepoi Sepoi,1651,1598,3249
+94,2011-04-04,Musim Semi,2011,April,Senin,Tidak,Ya,Cerah/Berawan,23.506653,27.14645,Hangat,42.625,Nyaman,25.833257,Sedang,734,2381,3115
+95,2011-04-05,Musim Semi,2011,April,Selasa,Tidak,Ya,Kabut/Berawan,16.980847,19.9175,Nyaman,64.2083,Lembap,26.000488999999998,Sedang,167,1628,1795
+96,2011-04-06,Musim Semi,2011,April,Rabu,Tidak,Ya,Cerah/Berawan,16.024153,19.3804,Nyaman,47.0833,Nyaman,17.625221,Sepoi Sepoi,413,2395,2808
+97,2011-04-07,Musim Semi,2011,April,Kamis,Tidak,Ya,Cerah/Berawan,17.9375,21.684800000000003,Nyaman,60.291700000000006,Lembap,10.874904,Sepoi Sepoi,571,2570,3141
+98,2011-04-08,Musim Semi,2011,April,Jumat,Tidak,Ya,Kabut/Berawan,13.769153,16.223950000000002,Nyaman,83.625,Sangat Lembap,15.208464,Sepoi Sepoi,172,1299,1471
+99,2011-04-09,Musim Semi,2011,April,Sabtu,Tidak,Tidak,Kabut/Berawan,14.0425,17.07645,Nyaman,87.75,Ekstrem Lembap,8.916561,Tenang,879,1576,2455
+100,2011-04-10,Musim Semi,2011,April,Minggu,Tidak,Tidak,Kabut/Berawan,17.493347,21.33685,Nyaman,85.75,Ekstrem Lembap,9.833389,Tenang,1188,1707,2895
+101,2011-04-11,Musim Semi,2011,April,Senin,Tidak,Ya,Kabut/Berawan,24.421732,28.260849999999998,Hangat,71.6956,Lembap,21.739758,Sedang,855,2493,3348
+102,2011-04-12,Musim Semi,2011,April,Selasa,Tidak,Ya,Kabut/Berawan,20.6025,24.6527,Nyaman,73.9167,Lembap,18.416892999999998,Sepoi Sepoi,257,1777,2034
+103,2011-04-13,Musim Semi,2011,April,Rabu,Tidak,Ya,Kabut/Berawan,16.912499999999998,20.864150000000002,Nyaman,81.91669999999999,Sangat Lembap,16.791338999999997,Sepoi Sepoi,209,1953,2162
+104,2011-04-14,Musim Semi,2011,April,Kamis,Tidak,Ya,Cerah/Berawan,19.1675,23.1371,Nyaman,54.041700000000006,Nyaman,7.4169,Tenang,529,2738,3267
+105,2011-04-15,Musim Semi,2011,April,Jumat,Ya,Tidak,Cerah/Berawan,18.313347,22.09565,Nyaman,67.125,Lembap,15.167124999999999,Sepoi Sepoi,642,2484,3126
+106,2011-04-16,Musim Semi,2011,April,Sabtu,Tidak,Tidak,Hujan/Salju Ringan,17.664153000000002,21.2746,Nyaman,88.83330000000001,Ekstrem Lembap,22.834136,Sedang,121,674,795
+107,2011-04-17,Musim Semi,2011,April,Minggu,Tidak,Tidak,Cerah/Berawan,18.723347,22.2848,Nyaman,47.9583,Nyaman,20.334232,Sedang,1558,2186,3744
+108,2011-04-18,Musim Semi,2011,April,Senin,Tidak,Ya,Cerah/Berawan,21.0125,25.1573,Hangat,54.25,Nyaman,10.958988999999999,Sepoi Sepoi,669,2760,3429
+109,2011-04-19,Musim Semi,2011,April,Selasa,Tidak,Ya,Kabut/Berawan,20.739152999999998,24.4629,Nyaman,66.5833,Lembap,10.584057,Sepoi Sepoi,409,2795,3204
+110,2011-04-20,Musim Semi,2011,April,Rabu,Tidak,Ya,Cerah/Berawan,24.395,28.2196,Hangat,61.4167,Lembap,16.208975,Sepoi Sepoi,613,3331,3944
+111,2011-04-21,Musim Semi,2011,April,Kamis,Tidak,Ya,Cerah/Berawan,18.825847,22.6946,Nyaman,40.708299999999994,Nyaman,21.792286,Sedang,745,3444,4189
+112,2011-04-22,Musim Semi,2011,April,Jumat,Tidak,Ya,Kabut/Berawan,13.803347,16.0977,Nyaman,72.9583,Lembap,14.707906999999999,Sepoi Sepoi,177,1506,1683
+113,2011-04-23,Musim Semi,2011,April,Sabtu,Tidak,Tidak,Kabut/Berawan,18.86,22.50605,Nyaman,88.79169999999999,Ekstrem Lembap,15.458575000000002,Sepoi Sepoi,1462,2574,4036
+114,2011-04-24,Musim Semi,2011,April,Minggu,Tidak,Tidak,Kabut/Berawan,23.848347,27.58815,Hangat,81.08330000000001,Sangat Lembap,12.875725000000001,Sepoi Sepoi,1710,2481,4191
+115,2011-04-25,Musim Semi,2011,April,Senin,Tidak,Ya,Cerah/Berawan,24.873347,28.725,Hangat,77.6667,Sangat Lembap,12.417311,Sepoi Sepoi,773,3300,4073
+116,2011-04-26,Musim Semi,2011,April,Selasa,Tidak,Ya,Cerah/Berawan,25.898346999999998,29.704150000000002,Hangat,72.9167,Lembap,21.875500000000002,Sedang,678,3722,4400
+117,2011-04-27,Musim Semi,2011,April,Rabu,Tidak,Ya,Kabut/Berawan,25.419999999999998,28.7571,Hangat,83.54169999999999,Sangat Lembap,20.917399999999997,Sedang,547,3325,3872
+118,2011-04-28,Musim Semi,2011,April,Kamis,Tidak,Ya,Kabut/Berawan,25.317500000000003,28.946450000000002,Hangat,70.08330000000001,Lembap,21.500836000000003,Sedang,569,3489,4058
+119,2011-04-29,Musim Semi,2011,April,Jumat,Tidak,Ya,Cerah/Berawan,20.91,24.87315,Nyaman,45.7083,Nyaman,16.084221,Sepoi Sepoi,878,3717,4595
+120,2011-04-30,Musim Semi,2011,April,Sabtu,Tidak,Tidak,Cerah/Berawan,19.3725,23.201050000000002,Nyaman,50.3333,Nyaman,15.750025,Sepoi Sepoi,1965,3347,5312
+121,2011-05-01,Musim Semi,2011,Mei,Minggu,Tidak,Tidak,Kabut/Berawan,18.518347,22.4102,Nyaman,76.2083,Sangat Lembap,7.125718,Tenang,1138,2213,3351
+122,2011-05-02,Musim Semi,2011,Mei,Senin,Tidak,Ya,Kabut/Berawan,22.515846999999997,26.64165,Hangat,73.0,Lembap,12.291418,Sepoi Sepoi,847,3554,4401
+123,2011-05-03,Musim Semi,2011,Mei,Selasa,Tidak,Ya,Kabut/Berawan,25.283347,29.10395,Hangat,69.7083,Lembap,22.958689,Sedang,603,3848,4451
+124,2011-05-04,Musim Semi,2011,Mei,Rabu,Tidak,Ya,Kabut/Berawan,16.980847,20.2325,Nyaman,73.70830000000001,Lembap,22.042732,Sedang,255,2378,2633
+125,2011-05-05,Musim Semi,2011,Mei,Kamis,Tidak,Ya,Cerah/Berawan,18.825847,22.09585,Nyaman,44.4167,Nyaman,19.791263999999998,Sepoi Sepoi,614,3819,4433
+126,2011-05-06,Musim Semi,2011,Mei,Jumat,Tidak,Ya,Cerah/Berawan,19.645847,23.70585,Nyaman,59.0,Nyaman,15.292482,Sepoi Sepoi,894,3714,4608
+127,2011-05-07,Musim Semi,2011,Mei,Sabtu,Tidak,Tidak,Cerah/Berawan,21.32,25.63105,Hangat,54.125,Nyaman,10.750150000000001,Sepoi Sepoi,1612,3102,4714
+128,2011-05-08,Musim Semi,2011,Mei,Minggu,Tidak,Tidak,Cerah/Berawan,21.661653,25.946649999999998,Hangat,63.1667,Lembap,5.0007125,Tenang,1401,2932,4333
+129,2011-05-09,Musim Semi,2011,Mei,Senin,Tidak,Ya,Cerah/Berawan,21.8325,26.2623,Hangat,58.875,Nyaman,11.792,Sepoi Sepoi,664,3698,4362
+130,2011-05-10,Musim Semi,2011,Mei,Selasa,Tidak,Ya,Cerah/Berawan,21.8325,26.13605,Hangat,48.9167,Nyaman,7.749956999999999,Tenang,694,4109,4803
+131,2011-05-11,Musim Semi,2011,Mei,Rabu,Tidak,Ya,Cerah/Berawan,22.2425,26.419999999999998,Hangat,63.29169999999999,Lembap,8.083014,Tenang,550,3632,4182
+132,2011-05-12,Musim Semi,2011,Mei,Kamis,Tidak,Ya,Cerah/Berawan,21.935000000000002,26.16815,Hangat,74.75,Lembap,12.707689,Sepoi Sepoi,695,4169,4864
+133,2011-05-13,Musim Semi,2011,Mei,Jumat,Tidak,Ya,Kabut/Berawan,21.0125,24.715,Nyaman,86.33330000000001,Ekstrem Lembap,12.041575,Sepoi Sepoi,692,3413,4105
+134,2011-05-14,Musim Semi,2011,Mei,Sabtu,Tidak,Tidak,Kabut/Berawan,21.354153,25.03145,Hangat,92.25,Ekstrem Lembap,9.041649999999999,Tenang,902,2507,3409
+135,2011-05-15,Musim Semi,2011,Mei,Minggu,Tidak,Tidak,Kabut/Berawan,23.0625,26.8,Hangat,86.70830000000001,Ekstrem Lembap,10.249593,Sepoi Sepoi,1582,2971,4553
+136,2011-05-16,Musim Semi,2011,Mei,Senin,Tidak,Ya,Cerah/Berawan,23.677500000000002,27.5256,Hangat,78.79169999999999,Sangat Lembap,8.500357000000001,Tenang,773,3185,3958
+137,2011-05-17,Musim Semi,2011,Mei,Selasa,Tidak,Ya,Kabut/Berawan,23.028347,26.926450000000003,Hangat,83.7917,Sangat Lembap,18.582718,Sepoi Sepoi,678,3445,4123
+138,2011-05-18,Musim Semi,2011,Mei,Rabu,Tidak,Ya,Kabut/Berawan,22.55,26.3579,Hangat,87.0,Ekstrem Lembap,13.499964,Sepoi Sepoi,536,3319,3855
+139,2011-05-19,Musim Semi,2011,Mei,Kamis,Tidak,Ya,Kabut/Berawan,21.764153,25.537100000000002,Hangat,82.9583,Sangat Lembap,7.250271000000001,Tenang,735,3840,4575
+140,2011-05-20,Musim Semi,2011,Mei,Jumat,Tidak,Ya,Cerah/Berawan,22.003347,26.4521,Hangat,71.9583,Lembap,8.375871,Tenang,909,4008,4917
+141,2011-05-21,Musim Semi,2011,Mei,Sabtu,Tidak,Tidak,Cerah/Berawan,24.7025,28.59875,Hangat,62.6667,Lembap,8.083549999999999,Tenang,2258,3547,5805
+142,2011-05-22,Musim Semi,2011,Mei,Minggu,Tidak,Tidak,Cerah/Berawan,24.770847,28.725,Hangat,74.9583,Lembap,9.916536,Tenang,1576,3084,4660
+143,2011-05-23,Musim Semi,2011,Mei,Senin,Tidak,Ya,Kabut/Berawan,25.898346999999998,29.5148,Hangat,81.0,Sangat Lembap,15.667413999999999,Sepoi Sepoi,836,3438,4274
+144,2011-05-24,Musim Semi,2011,Mei,Selasa,Tidak,Ya,Kabut/Berawan,27.060000000000002,30.240650000000002,Hangat,74.0833,Lembap,13.875164,Sepoi Sepoi,659,3833,4492
+145,2011-05-25,Musim Semi,2011,Mei,Rabu,Tidak,Ya,Cerah/Berawan,27.094153,30.7771,Hangat,69.625,Lembap,10.333611000000001,Sepoi Sepoi,740,4238,4978
+146,2011-05-26,Musim Semi,2011,Mei,Kamis,Tidak,Ya,Cerah/Berawan,29.041653,32.7344,Hangat,67.75,Lembap,13.376014,Sepoi Sepoi,758,3919,4677
+147,2011-05-27,Musim Semi,2011,Mei,Jumat,Tidak,Ya,Cerah/Berawan,27.948347000000002,31.8504,Hangat,65.375,Lembap,16.125493,Sepoi Sepoi,871,3808,4679
+148,2011-05-28,Musim Semi,2011,Mei,Sabtu,Tidak,Tidak,Cerah/Berawan,26.889153,30.61895,Hangat,72.9583,Lembap,15.416164,Sepoi Sepoi,2001,2757,4758
+149,2011-05-29,Musim Semi,2011,Mei,Minggu,Tidak,Tidak,Cerah/Berawan,27.3675,30.777500000000003,Hangat,81.875,Sangat Lembap,14.333846,Sepoi Sepoi,2355,2433,4788
+150,2011-05-30,Musim Semi,2011,Mei,Senin,Ya,Tidak,Cerah/Berawan,30.066653000000002,33.5546,Hangat,68.5,Lembap,8.792075,Tenang,1549,2549,4098
+151,2011-05-31,Musim Semi,2011,Mei,Selasa,Tidak,Ya,Cerah/Berawan,31.775000000000002,36.26915,Panas,63.6667,Lembap,7.459042999999999,Tenang,673,3309,3982
+152,2011-06-01,Musim Panas,2011,Juni,Rabu,Tidak,Ya,Kabut/Berawan,31.330847000000002,36.04835,Panas,67.7083,Lembap,13.875164,Sepoi Sepoi,513,3461,3974
+153,2011-06-02,Musim Panas,2011,Juni,Kamis,Tidak,Ya,Cerah/Berawan,29.314999999999998,32.1971,Hangat,30.5,Kering,19.583229000000003,Sepoi Sepoi,736,4232,4968
+154,2011-06-03,Musim Panas,2011,Juni,Jumat,Tidak,Ya,Cerah/Berawan,25.419999999999998,29.356650000000002,Hangat,35.4167,Kering,16.959107,Sepoi Sepoi,898,4414,5312
+155,2011-06-04,Musim Panas,2011,Juni,Sabtu,Tidak,Tidak,Cerah/Berawan,26.035,29.7348,Hangat,45.625,Nyaman,8.250514,Tenang,1869,3473,5342
+156,2011-06-05,Musim Panas,2011,Juni,Minggu,Tidak,Tidak,Kabut/Berawan,26.581653000000003,30.8402,Hangat,65.25,Lembap,9.292364000000001,Tenang,1685,3221,4906
+157,2011-06-06,Musim Panas,2011,Juni,Senin,Tidak,Ya,Cerah/Berawan,27.811653,31.0929,Hangat,60.0,Nyaman,8.167032,Tenang,673,3875,4548
+158,2011-06-07,Musim Panas,2011,Juni,Selasa,Tidak,Ya,Cerah/Berawan,29.0075,32.7975,Hangat,59.791700000000006,Nyaman,12.583136,Sepoi Sepoi,763,4070,4833
+159,2011-06-08,Musim Panas,2011,Juni,Rabu,Tidak,Ya,Cerah/Berawan,31.809153,36.36395,Panas,62.20830000000001,Lembap,9.166739,Tenang,676,3725,4401
+160,2011-06-09,Musim Panas,2011,Juni,Kamis,Tidak,Ya,Kabut/Berawan,33.141653,37.87895,Panas,56.833299999999994,Nyaman,10.042161,Sepoi Sepoi,563,3352,3915
+161,2011-06-10,Musim Panas,2011,Juni,Jumat,Tidak,Ya,Cerah/Berawan,30.955000000000002,35.1646,Panas,60.5,Lembap,9.417118,Tenang,815,3771,4586
+162,2011-06-11,Musim Panas,2011,Juni,Sabtu,Tidak,Tidak,Cerah/Berawan,29.724999999999998,33.901900000000005,Hangat,65.45830000000001,Lembap,10.374949999999998,Sepoi Sepoi,1729,3237,4966
+163,2011-06-12,Musim Panas,2011,Juni,Minggu,Tidak,Tidak,Cerah/Berawan,28.392500000000002,32.166250000000005,Hangat,74.7917,Lembap,10.958988999999999,Sepoi Sepoi,1467,2993,4460
+164,2011-06-13,Musim Panas,2011,Juni,Senin,Tidak,Ya,Cerah/Berawan,26.035,30.082700000000003,Hangat,49.4583,Nyaman,20.45845,Sedang,863,4157,5020
+165,2011-06-14,Musim Panas,2011,Juni,Selasa,Tidak,Ya,Cerah/Berawan,24.770847,29.5773,Hangat,50.708299999999994,Nyaman,18.041961,Sepoi Sepoi,727,4164,4891
+166,2011-06-15,Musim Panas,2011,Juni,Rabu,Tidak,Ya,Cerah/Berawan,25.693347,29.3877,Hangat,47.1667,Nyaman,11.250104,Sepoi Sepoi,769,4411,5180
+167,2011-06-16,Musim Panas,2011,Juni,Kamis,Tidak,Ya,Kabut/Berawan,25.761653000000003,29.767300000000002,Hangat,68.8333,Lembap,13.833556999999999,Sepoi Sepoi,545,3222,3767
+168,2011-06-17,Musim Panas,2011,Juni,Jumat,Tidak,Ya,Cerah/Berawan,26.615847000000002,30.01915,Hangat,73.5833,Lembap,9.582942999999998,Tenang,863,3981,4844
+169,2011-06-18,Musim Panas,2011,Juni,Sabtu,Tidak,Tidak,Cerah/Berawan,28.563347,32.197700000000005,Hangat,67.0417,Lembap,8.000336,Tenang,1807,3312,5119
+170,2011-06-19,Musim Panas,2011,Juni,Minggu,Tidak,Tidak,Kabut/Berawan,28.665847,32.292300000000004,Hangat,66.6667,Lembap,6.834,Tenang,1639,3105,4744
+171,2011-06-20,Musim Panas,2011,Juni,Senin,Tidak,Ya,Kabut/Berawan,26.035,29.767300000000002,Hangat,74.625,Lembap,10.416825,Sepoi Sepoi,699,3311,4010
+172,2011-06-21,Musim Panas,2011,Juni,Selasa,Tidak,Ya,Kabut/Berawan,27.914153000000002,31.8823,Hangat,77.0417,Sangat Lembap,11.458675000000001,Sepoi Sepoi,774,4061,4835
+173,2011-06-22,Musim Panas,2011,Juni,Rabu,Tidak,Ya,Cerah/Berawan,30.066653000000002,34.69145,Hangat,70.75,Lembap,11.541554,Sepoi Sepoi,661,3846,4507
+174,2011-06-23,Musim Panas,2011,Juni,Kamis,Tidak,Ya,Kabut/Berawan,29.861653,34.69165,Hangat,70.3333,Lembap,15.999868,Sepoi Sepoi,746,4044,4790
+175,2011-06-24,Musim Panas,2011,Juni,Jumat,Tidak,Ya,Cerah/Berawan,29.690847,32.82915,Hangat,57.3333,Nyaman,14.875675,Sepoi Sepoi,969,4022,4991
+176,2011-06-25,Musim Panas,2011,Juni,Sabtu,Tidak,Tidak,Cerah/Berawan,28.494999999999997,32.16565,Hangat,48.3333,Nyaman,14.041257,Sepoi Sepoi,1782,3420,5202
+177,2011-06-26,Musim Panas,2011,Juni,Minggu,Tidak,Tidak,Cerah/Berawan,27.880000000000003,31.88145,Hangat,51.3333,Nyaman,6.3337311,Tenang,1920,3385,5305
+178,2011-06-27,Musim Panas,2011,Juni,Senin,Tidak,Ya,Kabut/Berawan,27.982499999999998,31.8502,Hangat,65.8333,Lembap,7.2083960000000005,Tenang,854,3854,4708
+179,2011-06-28,Musim Panas,2011,Juni,Selasa,Tidak,Ya,Cerah/Berawan,30.510847000000002,34.6279,Hangat,63.416700000000006,Lembap,9.666960999999999,Tenang,732,3916,4648
+180,2011-06-29,Musim Panas,2011,Juni,Rabu,Tidak,Ya,Cerah/Berawan,29.861653,32.7344,Hangat,49.7917,Nyaman,17.542007,Sepoi Sepoi,848,4377,5225
+181,2011-06-30,Musim Panas,2011,Juni,Kamis,Tidak,Ya,Cerah/Berawan,28.563347,31.8504,Hangat,43.416700000000006,Nyaman,12.415904000000001,Sepoi Sepoi,1027,4488,5515
+182,2011-07-01,Musim Panas,2011,Juli,Jumat,Tidak,Ya,Cerah/Berawan,29.622500000000002,32.6081,Hangat,39.625,Kering,6.874736,Tenang,1246,4116,5362
+183,2011-07-02,Musim Panas,2011,Juli,Sabtu,Tidak,Tidak,Cerah/Berawan,30.271653,33.3654,Hangat,44.4583,Nyaman,7.709154,Tenang,2204,2915,5119
+184,2011-07-03,Musim Panas,2011,Juli,Minggu,Tidak,Tidak,Kabut/Berawan,29.383347,33.42875,Hangat,68.25,Lembap,15.333486,Sepoi Sepoi,2282,2367,4649
+185,2011-07-04,Musim Panas,2011,Juli,Senin,Ya,Tidak,Kabut/Berawan,29.793346999999997,33.27085,Hangat,63.7917,Lembap,5.4591064000000005,Tenang,3065,2978,6043
+186,2011-07-05,Musim Panas,2011,Juli,Selasa,Tidak,Ya,Cerah/Berawan,30.613346999999997,34.816900000000004,Hangat,59.0417,Nyaman,8.459286,Tenang,1031,3634,4665
+187,2011-07-06,Musim Panas,2011,Juli,Rabu,Tidak,Ya,Cerah/Berawan,29.52,34.28165,Hangat,74.33330000000001,Lembap,10.042161,Sepoi Sepoi,784,3845,4629
+188,2011-07-07,Musim Panas,2011,Juli,Kamis,Tidak,Ya,Cerah/Berawan,30.75,34.34355,Hangat,65.125,Lembap,10.666400000000001,Sepoi Sepoi,754,3838,4592
+189,2011-07-08,Musim Panas,2011,Juli,Jumat,Tidak,Ya,Kabut/Berawan,29.075847,33.524150000000006,Hangat,75.79169999999999,Sangat Lembap,15.083643,Sepoi Sepoi,692,3348,4040
+190,2011-07-09,Musim Panas,2011,Juli,Sabtu,Tidak,Tidak,Cerah/Berawan,30.066653000000002,33.2079,Hangat,60.9167,Lembap,11.250104,Sepoi Sepoi,1988,3348,5336
+191,2011-07-10,Musim Panas,2011,Juli,Minggu,Tidak,Tidak,Cerah/Berawan,30.6475,34.50125,Hangat,57.8333,Nyaman,12.292557,Sepoi Sepoi,1743,3138,4881
+192,2011-07-11,Musim Panas,2011,Juli,Senin,Tidak,Ya,Cerah/Berawan,31.2625,36.4902,Panas,63.5833,Lembap,18.916579,Sepoi Sepoi,723,3363,4086
+193,2011-07-12,Musim Panas,2011,Juli,Selasa,Tidak,Ya,Cerah/Berawan,32.560846999999995,36.96375,Panas,55.9167,Nyaman,13.417017999999999,Sepoi Sepoi,662,3596,4258
+194,2011-07-13,Musim Panas,2011,Juli,Rabu,Tidak,Ya,Cerah/Berawan,30.613346999999997,34.4702,Hangat,63.1667,Lembap,9.790911000000001,Tenang,748,3594,4342
+195,2011-07-14,Musim Panas,2011,Juli,Kamis,Tidak,Ya,Cerah/Berawan,27.914153000000002,31.7552,Hangat,47.625,Nyaman,16.124689,Sepoi Sepoi,888,4196,5084
+196,2011-07-15,Musim Panas,2011,Juli,Jumat,Tidak,Ya,Cerah/Berawan,27.196652999999998,31.21855,Hangat,59.12500000000001,Nyaman,12.249811,Sepoi Sepoi,1318,4220,5538
+197,2011-07-16,Musim Panas,2011,Juli,Sabtu,Tidak,Tidak,Cerah/Berawan,28.153347,31.91315,Hangat,58.5,Nyaman,13.958914,Sepoi Sepoi,2418,3505,5923
+198,2011-07-17,Musim Panas,2011,Juli,Minggu,Tidak,Tidak,Cerah/Berawan,29.485847,33.49165,Hangat,60.4167,Lembap,16.417211,Sepoi Sepoi,2006,3296,5302
+199,2011-07-18,Musim Panas,2011,Juli,Senin,Tidak,Ya,Cerah/Berawan,30.613346999999997,35.19625,Panas,65.125,Lembap,14.458867999999999,Sepoi Sepoi,841,3617,4458
+200,2011-07-19,Musim Panas,2011,Juli,Selasa,Tidak,Ya,Cerah/Berawan,31.843347,37.37395,Panas,65.0417,Lembap,8.7502,Tenang,752,3789,4541
+201,2011-07-20,Musim Panas,2011,Juli,Rabu,Tidak,Ya,Cerah/Berawan,31.501653,37.3425,Panas,70.70830000000001,Lembap,7.625739,Tenang,644,3688,4332
+202,2011-07-21,Musim Panas,2011,Juli,Kamis,Tidak,Ya,Kabut/Berawan,33.415,41.31855,Panas,69.125,Lembap,14.875407,Sepoi Sepoi,632,3152,3784
+203,2011-07-22,Musim Panas,2011,Juli,Jumat,Tidak,Ya,Cerah/Berawan,34.781653,42.0448,Panas,58.0417,Nyaman,8.9177,Tenang,562,2825,3387
+204,2011-07-23,Musim Panas,2011,Juli,Sabtu,Tidak,Tidak,Cerah/Berawan,34.815847,40.214349999999996,Panas,50.0,Nyaman,8.791807,Tenang,987,2298,3285
+205,2011-07-24,Musim Panas,2011,Juli,Minggu,Tidak,Tidak,Cerah/Berawan,34.03,39.74145,Panas,55.0833,Nyaman,11.334456999999999,Sepoi Sepoi,1050,2556,3606
+206,2011-07-25,Musim Panas,2011,Juli,Senin,Tidak,Ya,Cerah/Berawan,30.476653000000002,36.0479,Panas,75.7083,Sangat Lembap,6.0841560999999995,Tenang,568,3272,3840
+207,2011-07-26,Musim Panas,2011,Juli,Selasa,Tidak,Ya,Cerah/Berawan,31.638347,34.84895,Hangat,54.0833,Nyaman,13.417285999999999,Sepoi Sepoi,750,3840,4590
+208,2011-07-27,Musim Panas,2011,Juli,Rabu,Tidak,Ya,Cerah/Berawan,31.775000000000002,34.53335,Hangat,40.291700000000006,Nyaman,12.292020999999998,Sepoi Sepoi,755,3901,4656
+209,2011-07-28,Musim Panas,2011,Juli,Kamis,Tidak,Ya,Cerah/Berawan,31.945847,36.995,Panas,58.3333,Nyaman,11.958093,Sepoi Sepoi,606,3784,4390
+210,2011-07-29,Musim Panas,2011,Juli,Jumat,Tidak,Ya,Cerah/Berawan,34.371653,39.29835,Panas,54.25,Nyaman,11.667245999999999,Sepoi Sepoi,670,3176,3846
+211,2011-07-30,Musim Panas,2011,Juli,Sabtu,Tidak,Tidak,Cerah/Berawan,32.970847,36.42685,Panas,46.5833,Nyaman,11.291979,Sepoi Sepoi,1559,2916,4475
+212,2011-07-31,Musim Panas,2011,Juli,Minggu,Tidak,Tidak,Cerah/Berawan,33.039153,36.4898,Panas,48.0833,Nyaman,11.042470999999999,Sepoi Sepoi,1524,2778,4302
+213,2011-08-01,Musim Panas,2011,Agustus,Senin,Tidak,Ya,Cerah/Berawan,31.638347,35.1646,Panas,55.0833,Nyaman,10.500039,Sepoi Sepoi,729,3537,4266
+214,2011-08-02,Musim Panas,2011,Agustus,Selasa,Tidak,Ya,Cerah/Berawan,32.116653,35.35355,Panas,49.125,Nyaman,13.79195,Sepoi Sepoi,801,4044,4845
+215,2011-08-03,Musim Panas,2011,Agustus,Rabu,Tidak,Ya,Kabut/Berawan,29.998347,33.99685,Hangat,65.75,Lembap,9.084061,Tenang,467,3107,3574
+216,2011-08-04,Musim Panas,2011,Agustus,Kamis,Tidak,Ya,Kabut/Berawan,29.11,33.2394,Hangat,75.75,Sangat Lembap,13.20905,Sepoi Sepoi,799,3777,4576
+217,2011-08-05,Musim Panas,2011,Agustus,Jumat,Tidak,Ya,Cerah/Berawan,29.144153000000003,32.82835,Hangat,63.083299999999994,Lembap,12.374632,Sepoi Sepoi,1023,3843,4866
+218,2011-08-06,Musim Panas,2011,Agustus,Sabtu,Tidak,Tidak,Kabut/Berawan,29.383347,33.807700000000004,Hangat,75.5,Sangat Lembap,15.29275,Sepoi Sepoi,1521,2773,4294
+219,2011-08-07,Musim Panas,2011,Agustus,Minggu,Tidak,Tidak,Cerah/Berawan,30.442500000000003,35.7646,Panas,75.29169999999999,Sangat Lembap,13.499629,Sepoi Sepoi,1298,2487,3785
+220,2011-08-08,Musim Panas,2011,Agustus,Senin,Tidak,Ya,Cerah/Berawan,31.365000000000002,35.16415,Panas,59.2083,Nyaman,12.875725000000001,Sepoi Sepoi,846,3480,4326
+221,2011-08-09,Musim Panas,2011,Agustus,Selasa,Tidak,Ya,Cerah/Berawan,31.775000000000002,36.20605,Panas,57.04169999999999,Nyaman,10.125107,Sepoi Sepoi,907,3695,4602
+222,2011-08-10,Musim Panas,2011,Agustus,Rabu,Tidak,Ya,Cerah/Berawan,31.433346999999998,34.24915,Hangat,42.4167,Nyaman,13.417285999999999,Sepoi Sepoi,884,3896,4780
+223,2011-08-11,Musim Panas,2011,Agustus,Kamis,Tidak,Ya,Cerah/Berawan,29.4175,32.57605,Hangat,42.375,Nyaman,11.041332,Sepoi Sepoi,812,3980,4792
+224,2011-08-12,Musim Panas,2011,Agustus,Jumat,Tidak,Ya,Cerah/Berawan,29.041653,32.7021,Hangat,41.5,Nyaman,8.416607,Tenang,1051,3854,4905
+225,2011-08-13,Musim Panas,2011,Agustus,Sabtu,Tidak,Tidak,Kabut/Berawan,28.119153,32.2929,Hangat,72.9583,Lembap,14.167418,Sepoi Sepoi,1504,2646,4150
+226,2011-08-14,Musim Panas,2011,Agustus,Minggu,Tidak,Tidak,Kabut/Berawan,27.743347,31.219400000000004,Hangat,81.75,Sangat Lembap,14.916411,Sepoi Sepoi,1338,2482,3820
+227,2011-08-15,Musim Panas,2011,Agustus,Senin,Tidak,Ya,Cerah/Berawan,27.299153,30.80835,Hangat,71.20830000000001,Lembap,13.999918,Sepoi Sepoi,775,3563,4338
+228,2011-08-16,Musim Panas,2011,Agustus,Selasa,Tidak,Ya,Cerah/Berawan,28.734153000000003,32.29185,Hangat,57.8333,Nyaman,15.834043000000001,Sepoi Sepoi,721,4004,4725
+229,2011-08-17,Musim Panas,2011,Agustus,Rabu,Tidak,Ya,Cerah/Berawan,29.656653,33.33355,Hangat,57.5417,Nyaman,9.625689,Tenang,668,4026,4694
+230,2011-08-18,Musim Panas,2011,Agustus,Kamis,Tidak,Ya,Cerah/Berawan,29.178347000000002,33.1129,Hangat,65.45830000000001,Lembap,15.624936,Sepoi Sepoi,639,3166,3805
+231,2011-08-19,Musim Panas,2011,Agustus,Jumat,Tidak,Ya,Kabut/Berawan,28.085,31.661050000000003,Hangat,72.2917,Lembap,9.333635999999998,Tenang,797,3356,4153
+232,2011-08-20,Musim Panas,2011,Agustus,Sabtu,Tidak,Tidak,Cerah/Berawan,28.5975,32.4498,Hangat,67.41669999999999,Lembap,6.999289,Tenang,1914,3277,5191
+233,2011-08-21,Musim Panas,2011,Agustus,Minggu,Tidak,Tidak,Cerah/Berawan,29.144153000000003,33.776250000000005,Hangat,77.0,Sangat Lembap,16.666518,Sepoi Sepoi,1249,2624,3873
+234,2011-08-22,Musim Panas,2011,Agustus,Senin,Tidak,Ya,Cerah/Berawan,28.358347000000002,31.9127,Hangat,47.0,Nyaman,18.54225,Sepoi Sepoi,833,3925,4758
+235,2011-08-23,Musim Panas,2011,Agustus,Selasa,Tidak,Ya,Cerah/Berawan,26.274153,30.303350000000002,Hangat,45.5417,Nyaman,9.833121,Tenang,1281,4614,5895
+236,2011-08-24,Musim Panas,2011,Agustus,Rabu,Tidak,Ya,Cerah/Berawan,27.606652999999998,31.5346,Hangat,60.5,Lembap,16.958236,Sepoi Sepoi,949,4181,5130
+237,2011-08-25,Musim Panas,2011,Agustus,Kamis,Tidak,Ya,Kabut/Berawan,28.050846999999997,32.2927,Hangat,77.1667,Sangat Lembap,14.125810999999999,Sepoi Sepoi,435,3107,3542
+238,2011-08-26,Musim Panas,2011,Agustus,Jumat,Tidak,Ya,Cerah/Berawan,28.7,32.98665,Hangat,76.125,Sangat Lembap,5.625487499999999,Tenang,768,3893,4661
+239,2011-08-27,Musim Panas,2011,Agustus,Sabtu,Tidak,Tidak,Kabut/Berawan,27.880000000000003,31.7778,Hangat,85.0,Sangat Lembap,25.166338999999997,Sedang,226,889,1115
+240,2011-08-28,Musim Panas,2011,Agustus,Minggu,Tidak,Tidak,Cerah/Berawan,28.989418999999998,32.397949999999994,Hangat,56.1765,Nyaman,20.412153,Sedang,1415,2919,4334
+241,2011-08-29,Musim Panas,2011,Agustus,Senin,Tidak,Ya,Cerah/Berawan,26.103347,30.3979,Hangat,55.45830000000001,Nyaman,10.708275,Sepoi Sepoi,729,3905,4634
+242,2011-08-30,Musim Panas,2011,Agustus,Selasa,Tidak,Ya,Cerah/Berawan,26.205847000000002,29.7352,Hangat,54.833299999999994,Nyaman,8.375536,Tenang,775,4429,5204
+243,2011-08-31,Musim Panas,2011,Agustus,Rabu,Tidak,Ya,Cerah/Berawan,26.923347,30.556050000000003,Hangat,59.791700000000006,Nyaman,5.5833311,Tenang,688,4370,5058
+244,2011-09-01,Musim Gugur,2011,September,Kamis,Tidak,Ya,Cerah/Berawan,26.855,30.746050000000004,Hangat,63.916700000000006,Lembap,9.500332,Tenang,783,4332,5115
+245,2011-09-02,Musim Gugur,2011,September,Jumat,Tidak,Ya,Kabut/Berawan,26.376653,30.2404,Hangat,72.70830000000001,Lembap,9.375243,Tenang,875,3852,4727
+246,2011-09-03,Musim Gugur,2011,September,Sabtu,Tidak,Tidak,Cerah/Berawan,27.435847,31.66065,Hangat,71.6667,Lembap,12.416775,Sepoi Sepoi,1935,2549,4484
+247,2011-09-04,Musim Gugur,2011,September,Minggu,Tidak,Tidak,Cerah/Berawan,29.075847,33.27145,Hangat,74.20830000000001,Lembap,13.833289,Sepoi Sepoi,2521,2419,4940
+248,2011-09-05,Musim Gugur,2011,September,Senin,Ya,Tidak,Kabut/Berawan,27.606652999999998,31.282300000000003,Hangat,79.0417,Sangat Lembap,14.250632,Sepoi Sepoi,1236,2115,3351
+249,2011-09-06,Musim Gugur,2011,September,Selasa,Tidak,Ya,Hujan/Salju Ringan,22.14,25.759999999999998,Hangat,88.6957,Ekstrem Lembap,23.044181,Sedang,204,2506,2710
+250,2011-09-07,Musim Gugur,2011,September,Rabu,Tidak,Ya,Hujan/Salju Ringan,24.565847,27.21145,Hangat,91.7083,Ekstrem Lembap,6.500393600000001,Tenang,118,1878,1996
+251,2011-09-08,Musim Gugur,2011,September,Kamis,Tidak,Ya,Hujan/Salju Ringan,25.990433,27.76805,Hangat,93.9565,Ekstrem Lembap,12.914116,Sepoi Sepoi,153,1689,1842
+252,2011-09-09,Musim Gugur,2011,September,Jumat,Tidak,Ya,Kabut/Berawan,26.650000000000002,28.9473,Hangat,89.79169999999999,Ekstrem Lembap,8.333393000000001,Tenang,417,3127,3544
+253,2011-09-10,Musim Gugur,2011,September,Sabtu,Tidak,Tidak,Cerah/Berawan,27.060000000000002,30.3981,Hangat,75.375,Sangat Lembap,10.291736,Sepoi Sepoi,1750,3595,5345
+254,2011-09-11,Musim Gugur,2011,September,Minggu,Tidak,Tidak,Cerah/Berawan,26.786653,30.46145,Hangat,71.375,Lembap,7.708618,Tenang,1633,3413,5046
+255,2011-09-12,Musim Gugur,2011,September,Senin,Tidak,Ya,Cerah/Berawan,26.418268,30.106500000000004,Hangat,69.2174,Lembap,5.957171000000001,Tenang,690,4023,4713
+256,2011-09-13,Musim Gugur,2011,September,Selasa,Tidak,Ya,Cerah/Berawan,26.684153,30.1777,Hangat,71.25,Lembap,9.500868,Tenang,701,4062,4763
+257,2011-09-14,Musim Gugur,2011,September,Rabu,Tidak,Ya,Cerah/Berawan,27.606652999999998,31.345,Hangat,69.7083,Lembap,11.2091,Sepoi Sepoi,647,4138,4785
+258,2011-09-15,Musim Gugur,2011,September,Kamis,Tidak,Ya,Kabut/Berawan,23.677500000000002,27.68355,Hangat,70.9167,Lembap,18.166782,Sepoi Sepoi,428,3231,3659
+259,2011-09-16,Musim Gugur,2011,September,Jumat,Tidak,Ya,Kabut/Berawan,19.235847,23.07375,Nyaman,59.0417,Nyaman,11.000261,Sepoi Sepoi,742,4018,4760
+260,2011-09-17,Musim Gugur,2011,September,Sabtu,Tidak,Tidak,Kabut/Berawan,20.158347,23.9256,Nyaman,71.8333,Lembap,12.708225,Sepoi Sepoi,1434,3077,4511
+261,2011-09-18,Musim Gugur,2011,September,Minggu,Tidak,Tidak,Cerah/Berawan,20.807499999999997,24.52685,Nyaman,69.5,Lembap,11.958361,Sepoi Sepoi,1353,2921,4274
+262,2011-09-19,Musim Gugur,2011,September,Senin,Tidak,Ya,Kabut/Berawan,22.515846999999997,26.48375,Hangat,69.0,Lembap,10.166713999999999,Sepoi Sepoi,691,3848,4539
+263,2011-09-20,Musim Gugur,2011,September,Selasa,Tidak,Ya,Kabut/Berawan,23.028347,26.610850000000003,Hangat,88.125,Ekstrem Lembap,9.041917999999999,Tenang,438,3203,3641
+264,2011-09-21,Musim Gugur,2011,September,Rabu,Tidak,Ya,Kabut/Berawan,24.395,27.526650000000004,Hangat,90.0,Ekstrem Lembap,6.4590814,Tenang,539,3813,4352
+265,2011-09-22,Musim Gugur,2011,September,Kamis,Tidak,Ya,Kabut/Berawan,25.761653000000003,27.74815,Hangat,90.2083,Ekstrem Lembap,8.584375,Tenang,555,4240,4795
+266,2011-09-23,Musim Gugur,2011,September,Jumat,Tidak,Ya,Kabut/Berawan,24.975847,26.106249999999996,Hangat,97.25,Ekstrem Lembap,5.2505689,Tenang,258,2137,2395
+267,2011-09-24,Musim Gugur,2011,September,Sabtu,Tidak,Tidak,Kabut/Berawan,24.873347,28.2206,Hangat,86.25,Ekstrem Lembap,5.2516811,Tenang,1776,3647,5423
+268,2011-09-25,Musim Gugur,2011,September,Minggu,Tidak,Tidak,Kabut/Berawan,26.000847,28.631849999999996,Hangat,84.5,Sangat Lembap,3.3754064,Tenang,1544,3466,5010
+269,2011-09-26,Musim Gugur,2011,September,Senin,Tidak,Ya,Kabut/Berawan,26.615847000000002,29.452099999999998,Hangat,84.8333,Sangat Lembap,7.4169,Tenang,684,3946,4630
+270,2011-09-27,Musim Gugur,2011,September,Selasa,Tidak,Ya,Kabut/Berawan,26.103347,28.726249999999997,Hangat,88.5417,Ekstrem Lembap,7.917457,Tenang,477,3643,4120
+271,2011-09-28,Musim Gugur,2011,September,Rabu,Tidak,Ya,Kabut/Berawan,26.035,28.757899999999996,Hangat,84.875,Sangat Lembap,9.958143000000002,Tenang,480,3427,3907
+272,2011-09-29,Musim Gugur,2011,September,Kamis,Tidak,Ya,Cerah/Berawan,25.283347,28.7256,Hangat,69.91669999999999,Lembap,11.583161,Sepoi Sepoi,653,4186,4839
+273,2011-09-30,Musim Gugur,2011,September,Jumat,Tidak,Ya,Cerah/Berawan,23.130847,27.24145,Hangat,64.75,Lembap,13.833825,Sepoi Sepoi,830,4372,5202
+274,2011-10-01,Musim Gugur,2011,Oktober,Sabtu,Tidak,Tidak,Kabut/Berawan,16.81,20.64315,Nyaman,75.375,Sangat Lembap,19.583832,Sepoi Sepoi,480,1949,2429
+275,2011-10-02,Musim Gugur,2011,Oktober,Minggu,Tidak,Tidak,Kabut/Berawan,14.623347,17.26585,Nyaman,79.1667,Sangat Lembap,14.874870999999999,Sepoi Sepoi,616,2302,2918
+276,2011-10-03,Musim Gugur,2011,Oktober,Senin,Tidak,Ya,Kabut/Berawan,15.750846999999998,19.6023,Nyaman,76.0833,Sangat Lembap,5.5841686,Tenang,330,3240,3570
+277,2011-10-04,Musim Gugur,2011,Oktober,Selasa,Tidak,Ya,Cerah/Berawan,19.850847,23.6429,Nyaman,71.0,Lembap,13.792218,Sepoi Sepoi,486,3970,4456
+278,2011-10-05,Musim Gugur,2011,Oktober,Rabu,Tidak,Ya,Cerah/Berawan,22.071652999999998,26.3569,Hangat,64.79169999999999,Lembap,11.87575,Sepoi Sepoi,559,4267,4826
+279,2011-10-06,Musim Gugur,2011,Oktober,Kamis,Tidak,Ya,Cerah/Berawan,20.260847000000002,24.02125,Nyaman,62.083299999999994,Lembap,9.041917999999999,Tenang,639,4126,4765
+280,2011-10-07,Musim Gugur,2011,Oktober,Jumat,Tidak,Ya,Cerah/Berawan,20.944153,25.2202,Hangat,68.41669999999999,Lembap,1.5002439,Tenang,949,4036,4985
+281,2011-10-08,Musim Gugur,2011,Oktober,Sabtu,Tidak,Tidak,Cerah/Berawan,21.388347,25.6621,Hangat,70.125,Lembap,3.0420814,Tenang,2235,3174,5409
+282,2011-10-09,Musim Gugur,2011,Oktober,Minggu,Tidak,Tidak,Cerah/Berawan,22.174153,26.19915,Hangat,72.75,Lembap,4.251150000000001,Tenang,2397,3114,5511
+283,2011-10-10,Musim Gugur,2011,Oktober,Senin,Ya,Tidak,Cerah/Berawan,23.404153,27.14625,Hangat,73.375,Lembap,2.8343814,Tenang,1514,3603,5117
+284,2011-10-11,Musim Gugur,2011,Oktober,Selasa,Tidak,Ya,Kabut/Berawan,23.233347000000002,27.3048,Hangat,80.875,Sangat Lembap,9.583814,Tenang,667,3896,4563
+285,2011-10-12,Musim Gugur,2011,Oktober,Rabu,Tidak,Ya,Hujan/Salju Ringan,22.276653,25.885849999999998,Hangat,90.625,Ekstrem Lembap,16.62605,Sepoi Sepoi,217,2199,2416
+286,2011-10-13,Musim Gugur,2011,Oktober,Kamis,Tidak,Ya,Kabut/Berawan,24.155847,27.5902,Hangat,89.6667,Ekstrem Lembap,9.499729,Tenang,290,2623,2913
+287,2011-10-14,Musim Gugur,2011,Oktober,Jumat,Tidak,Ya,Kabut/Berawan,22.584153,26.48375,Hangat,71.625,Lembap,15.000161,Sepoi Sepoi,529,3115,3644
+288,2011-10-15,Musim Gugur,2011,Oktober,Sabtu,Tidak,Tidak,Cerah/Berawan,20.773346999999998,24.936249999999998,Nyaman,48.3333,Nyaman,17.291561,Sepoi Sepoi,1899,3318,5217
+289,2011-10-16,Musim Gugur,2011,Oktober,Minggu,Tidak,Tidak,Cerah/Berawan,20.978347,25.1577,Hangat,48.6667,Nyaman,18.875039,Sepoi Sepoi,1748,3293,5041
+290,2011-10-17,Musim Gugur,2011,Oktober,Senin,Tidak,Ya,Cerah/Berawan,21.900847,25.53625,Hangat,57.958299999999994,Nyaman,11.750393,Sepoi Sepoi,713,3857,4570
+291,2011-10-18,Musim Gugur,2011,Oktober,Selasa,Tidak,Ya,Kabut/Berawan,21.8325,26.13605,Hangat,70.1667,Lembap,7.375829,Tenang,637,4111,4748
+292,2011-10-19,Musim Gugur,2011,Oktober,Rabu,Tidak,Ya,Hujan/Salju Ringan,22.211299,25.6924,Hangat,89.52170000000001,Ekstrem Lembap,16.303713,Sepoi Sepoi,254,2170,2424
+293,2011-10-20,Musim Gugur,2011,Oktober,Kamis,Tidak,Ya,Cerah/Berawan,19.509153,23.32625,Nyaman,63.625,Lembap,28.292425,Sedang,471,3724,4195
+294,2011-10-21,Musim Gugur,2011,Oktober,Jumat,Tidak,Ya,Cerah/Berawan,17.5275,21.1798,Nyaman,57.4167,Nyaman,14.833532,Sepoi Sepoi,676,3628,4304
+295,2011-10-22,Musim Gugur,2011,Oktober,Sabtu,Tidak,Tidak,Cerah/Berawan,17.322499999999998,21.2746,Nyaman,62.916700000000006,Lembap,6.2086689,Tenang,1499,2809,4308
+296,2011-10-23,Musim Gugur,2011,Oktober,Minggu,Tidak,Tidak,Cerah/Berawan,17.288347,21.11665,Nyaman,74.125,Lembap,6.6673375,Tenang,1619,2762,4381
+297,2011-10-24,Musim Gugur,2011,Oktober,Senin,Tidak,Ya,Cerah/Berawan,18.996653,22.85335,Nyaman,77.2083,Sangat Lembap,7.959064,Tenang,699,3488,4187
+298,2011-10-25,Musim Gugur,2011,Oktober,Selasa,Tidak,Ya,Cerah/Berawan,19.338347,23.16875,Nyaman,62.291700000000006,Lembap,11.166086,Sepoi Sepoi,695,3992,4687
+299,2011-10-26,Musim Gugur,2011,Oktober,Rabu,Tidak,Ya,Kabut/Berawan,19.850847,23.6423,Nyaman,72.04169999999999,Lembap,9.959014,Tenang,404,3490,3894
+300,2011-10-27,Musim Gugur,2011,Oktober,Kamis,Tidak,Ya,Kabut/Berawan,19.27,22.8523,Nyaman,81.2917,Sangat Lembap,13.250121,Sepoi Sepoi,240,2419,2659
+301,2011-10-28,Musim Gugur,2011,Oktober,Jumat,Tidak,Ya,Kabut/Berawan,13.564153,15.9406,Nyaman,58.58330000000001,Nyaman,15.375093,Sepoi Sepoi,456,3291,3747
+302,2011-10-29,Musim Gugur,2011,Oktober,Sabtu,Tidak,Tidak,Hujan/Salju Ringan,10.420846999999998,11.39565,Dingin,88.25,Ekstrem Lembap,23.541857,Sedang,57,570,627
+303,2011-10-30,Musim Gugur,2011,Oktober,Minggu,Tidak,Tidak,Cerah/Berawan,13.085847,16.06645,Nyaman,62.375,Lembap,11.833339,Sepoi Sepoi,885,2446,3331
+304,2011-10-31,Musim Gugur,2011,Oktober,Senin,Tidak,Ya,Cerah/Berawan,13.940000000000001,17.803150000000002,Nyaman,70.3333,Lembap,7.12545,Tenang,362,3307,3669
+305,2011-11-01,Musim Gugur,2011,November,Selasa,Tidak,Ya,Cerah/Berawan,16.434153,19.8544,Nyaman,68.375,Lembap,9.083257,Tenang,410,3658,4068
+306,2011-11-02,Musim Gugur,2011,November,Rabu,Tidak,Ya,Cerah/Berawan,15.477500000000001,19.50665,Nyaman,71.875,Lembap,5.5001439,Tenang,370,3816,4186
+307,2011-11-03,Musim Gugur,2011,November,Kamis,Tidak,Ya,Cerah/Berawan,16.741653,20.296049999999997,Nyaman,70.20830000000001,Lembap,9.166739,Tenang,318,3656,3974
+308,2011-11-04,Musim Gugur,2011,November,Jumat,Tidak,Ya,Kabut/Berawan,16.536653,20.1696,Nyaman,62.25000000000001,Lembap,18.209193,Sepoi Sepoi,470,3576,4046
+309,2011-11-05,Musim Gugur,2011,November,Sabtu,Tidak,Tidak,Cerah/Berawan,13.393346999999999,16.1927,Nyaman,51.916700000000006,Nyaman,12.667154,Sepoi Sepoi,1156,2770,3926
+310,2011-11-06,Musim Gugur,2011,November,Minggu,Tidak,Tidak,Cerah/Berawan,14.281653,18.117900000000002,Nyaman,73.4583,Lembap,6.1676314,Tenang,952,2697,3649
+311,2011-11-07,Musim Gugur,2011,November,Senin,Tidak,Ya,Cerah/Berawan,16.195,20.04355,Nyaman,75.875,Sangat Lembap,3.834075,Tenang,373,3662,4035
+312,2011-11-08,Musim Gugur,2011,November,Selasa,Tidak,Ya,Cerah/Berawan,16.741653,20.6123,Nyaman,72.16669999999999,Lembap,4.6255125,Tenang,376,3829,4205
+313,2011-11-09,Musim Gugur,2011,November,Rabu,Tidak,Ya,Cerah/Berawan,16.400000000000002,20.453950000000003,Nyaman,75.83330000000001,Sangat Lembap,4.1671186,Tenang,305,3804,4109
+314,2011-11-10,Musim Gugur,2011,November,Kamis,Tidak,Ya,Kabut/Berawan,15.58,18.68605,Nyaman,81.3333,Sangat Lembap,12.667489000000002,Sepoi Sepoi,190,2743,2933
+315,2011-11-11,Musim Gugur,2011,November,Jumat,Ya,Tidak,Cerah/Berawan,13.290847,15.34085,Nyaman,44.625,Nyaman,21.083225,Sedang,440,2928,3368
+316,2011-11-12,Musim Gugur,2011,November,Sabtu,Tidak,Tidak,Cerah/Berawan,14.623347,17.8971,Nyaman,55.2917,Nyaman,14.208154,Sepoi Sepoi,1275,2792,4067
+317,2011-11-13,Musim Gugur,2011,November,Minggu,Tidak,Tidak,Cerah/Berawan,18.074153,21.5275,Nyaman,45.8333,Nyaman,18.875307,Sepoi Sepoi,1004,2713,3717
+318,2011-11-14,Musim Gugur,2011,November,Senin,Tidak,Ya,Cerah/Berawan,21.73,26.2306,Hangat,58.7083,Nyaman,20.541932,Sedang,595,3891,4486
+319,2011-11-15,Musim Gugur,2011,November,Selasa,Tidak,Ya,Kabut/Berawan,21.73,25.37895,Hangat,68.875,Lembap,13.375411,Sepoi Sepoi,449,3746,4195
+320,2011-11-16,Musim Gugur,2011,November,Rabu,Tidak,Ya,Hujan/Salju Ringan,18.723347,22.5994,Nyaman,93.0,Ekstrem Lembap,9.167543,Tenang,145,1672,1817
+321,2011-11-17,Musim Gugur,2011,November,Kamis,Tidak,Ya,Kabut/Berawan,14.008347,16.16105,Nyaman,57.5833,Nyaman,20.459254,Sedang,139,2914,3053
+322,2011-11-18,Musim Gugur,2011,November,Jumat,Tidak,Ya,Cerah/Berawan,11.240847,13.63605,Dingin,41.0,Nyaman,11.291711,Sepoi Sepoi,245,3147,3392
+323,2011-11-19,Musim Gugur,2011,November,Sabtu,Tidak,Tidak,Cerah/Berawan,13.495847,16.22415,Nyaman,50.208299999999994,Nyaman,15.041232,Sepoi Sepoi,943,2720,3663
+324,2011-11-20,Musim Gugur,2011,November,Minggu,Tidak,Tidak,Kabut/Berawan,18.996653,22.8529,Nyaman,68.45830000000001,Lembap,12.45865,Sepoi Sepoi,787,2733,3520
+325,2011-11-21,Musim Gugur,2011,November,Senin,Tidak,Ya,Hujan/Salju Ringan,18.3475,22.2531,Nyaman,91.0,Ekstrem Lembap,9.249618,Tenang,220,2545,2765
+326,2011-11-22,Musim Gugur,2011,November,Selasa,Tidak,Ya,Hujan/Salju Ringan,17.083347,21.0848,Nyaman,96.25,Ekstrem Lembap,7.959064,Tenang,69,1538,1607
+327,2011-11-23,Musim Gugur,2011,November,Rabu,Tidak,Ya,Kabut/Berawan,18.074153,21.52685,Nyaman,75.79169999999999,Sangat Lembap,22.500275,Sedang,112,2454,2566
+328,2011-11-24,Musim Gugur,2011,November,Kamis,Ya,Tidak,Cerah/Berawan,15.306653,18.62355,Nyaman,54.9167,Nyaman,11.209368000000001,Sepoi Sepoi,560,935,1495
+329,2011-11-25,Musim Gugur,2011,November,Jumat,Tidak,Ya,Cerah/Berawan,15.375,19.033549999999998,Nyaman,64.375,Lembap,6.6260186,Tenang,1095,1697,2792
+330,2011-11-26,Musim Gugur,2011,November,Sabtu,Tidak,Tidak,Cerah/Berawan,15.409152999999998,19.254350000000002,Nyaman,68.1667,Lembap,4.5841936,Tenang,1249,1819,3068
+331,2011-11-27,Musim Gugur,2011,November,Minggu,Tidak,Tidak,Cerah/Berawan,18.825847,22.79,Nyaman,69.8333,Lembap,13.999918,Sepoi Sepoi,810,2261,3071
+332,2011-11-28,Musim Gugur,2011,November,Senin,Tidak,Ya,Cerah/Berawan,20.642598,24.5061,Nyaman,74.3043,Lembap,9.522174,Tenang,253,3614,3867
+333,2011-11-29,Musim Gugur,2011,November,Selasa,Tidak,Ya,Kabut/Berawan,18.791653,22.56875,Nyaman,83.08330000000001,Sangat Lembap,17.292164,Sepoi Sepoi,96,2818,2914
+334,2011-11-30,Musim Gugur,2011,November,Rabu,Tidak,Ya,Cerah/Berawan,13.325000000000001,15.561050000000002,Nyaman,61.3333,Lembap,18.167586,Sepoi Sepoi,188,3425,3613
+335,2011-12-01,Musim Dingin,2011,Desember,Kamis,Tidak,Ya,Cerah/Berawan,12.8125,15.2777,Nyaman,52.4583,Nyaman,14.750586,Sepoi Sepoi,182,3545,3727
+336,2011-12-02,Musim Dingin,2011,Desember,Jumat,Tidak,Ya,Cerah/Berawan,12.880847,16.571649999999998,Nyaman,62.583299999999994,Lembap,6.750518,Tenang,268,3672,3940
+337,2011-12-03,Musim Dingin,2011,Desember,Sabtu,Tidak,Tidak,Cerah/Berawan,12.265847,15.530199999999999,Nyaman,61.291700000000006,Lembap,6.4174811,Tenang,706,2908,3614
+338,2011-12-04,Musim Dingin,2011,Desember,Minggu,Tidak,Tidak,Cerah/Berawan,13.564153,17.455000000000002,Nyaman,77.5833,Sangat Lembap,5.6252061,Tenang,634,2851,3485
+339,2011-12-05,Musim Dingin,2011,Desember,Senin,Tidak,Ya,Kabut/Berawan,15.819153,19.696250000000003,Nyaman,82.70830000000001,Sangat Lembap,4.1679561000000005,Tenang,233,3578,3811
+340,2011-12-06,Musim Dingin,2011,Desember,Selasa,Tidak,Ya,Hujan/Salju Ringan,18.962500000000002,22.82,Nyaman,94.9583,Ekstrem Lembap,15.583061,Sepoi Sepoi,126,2468,2594
+341,2011-12-07,Musim Dingin,2011,Desember,Rabu,Tidak,Ya,Hujan/Salju Ringan,16.81,20.0123,Nyaman,97.04169999999999,Ekstrem Lembap,17.833725,Sepoi Sepoi,50,655,705
+342,2011-12-08,Musim Dingin,2011,Desember,Kamis,Tidak,Ya,Cerah/Berawan,10.899153,12.8469,Dingin,57.99999999999999,Nyaman,16.083886,Sepoi Sepoi,150,3172,3322
+343,2011-12-09,Musim Dingin,2011,Desember,Jumat,Tidak,Ya,Cerah/Berawan,11.924153,15.877099999999999,Nyaman,69.58330000000001,Lembap,5.5420189,Tenang,261,3359,3620
+344,2011-12-10,Musim Dingin,2011,Desember,Sabtu,Tidak,Tidak,Cerah/Berawan,11.275,13.320599999999999,Dingin,50.74999999999999,Nyaman,15.625807,Sepoi Sepoi,502,2688,3190
+345,2011-12-11,Musim Dingin,2011,Desember,Minggu,Tidak,Tidak,Cerah/Berawan,9.054153,12.6577,Dingin,49.0,Nyaman,4.458293899999999,Tenang,377,2366,2743
+346,2011-12-12,Musim Dingin,2011,Desember,Senin,Tidak,Ya,Cerah/Berawan,9.771652999999999,13.5098,Dingin,67.08330000000001,Lembap,4.251150000000001,Tenang,143,3167,3310
+347,2011-12-13,Musim Dingin,2011,Desember,Selasa,Tidak,Ya,Cerah/Berawan,11.5825,15.0569,Nyaman,59.0,Nyaman,9.41685,Tenang,155,3368,3523
+348,2011-12-14,Musim Dingin,2011,Desember,Rabu,Tidak,Ya,Kabut/Berawan,13.0175,16.9181,Nyaman,66.375,Lembap,4.0842061,Tenang,178,3562,3740
+349,2011-12-15,Musim Dingin,2011,Desember,Kamis,Tidak,Ya,Kabut/Berawan,17.322499999999998,20.61185,Nyaman,63.416700000000006,Lembap,17.958814,Sepoi Sepoi,181,3528,3709
+350,2011-12-16,Musim Dingin,2011,Desember,Jumat,Tidak,Ya,Kabut/Berawan,15.375,17.99125,Nyaman,50.0417,Nyaman,17.458525,Sepoi Sepoi,178,3399,3577
+351,2011-12-17,Musim Dingin,2011,Desember,Sabtu,Tidak,Tidak,Kabut/Berawan,10.591652999999999,12.46855,Dingin,56.0833,Nyaman,16.292189,Sepoi Sepoi,275,2464,2739
+352,2011-12-18,Musim Dingin,2011,Desember,Minggu,Tidak,Tidak,Cerah/Berawan,9.771652999999999,12.27895,Dingin,58.62500000000001,Nyaman,11.375193000000001,Sepoi Sepoi,220,2211,2431
+353,2011-12-19,Musim Dingin,2011,Desember,Senin,Tidak,Ya,Cerah/Berawan,11.343347,14.04665,Dingin,63.74999999999999,Lembap,11.584031999999999,Sepoi Sepoi,260,3143,3403
+354,2011-12-20,Musim Dingin,2011,Desember,Selasa,Tidak,Ya,Kabut/Berawan,15.819153,19.822699999999998,Nyaman,59.5417,Nyaman,4.1252436,Tenang,216,3534,3750
+355,2011-12-21,Musim Dingin,2011,Desember,Rabu,Tidak,Ya,Kabut/Berawan,17.561653,21.40085,Nyaman,85.83330000000001,Ekstrem Lembap,14.8338,Sepoi Sepoi,107,2553,2660
+356,2011-12-22,Musim Dingin,2011,Desember,Kamis,Tidak,Ya,Kabut/Berawan,17.356653,21.306050000000003,Nyaman,75.75,Sangat Lembap,3.1674249999999997,Tenang,227,2841,3068
+357,2011-12-23,Musim Dingin,2011,Desember,Jumat,Tidak,Ya,Cerah/Berawan,15.306653,18.87565,Nyaman,68.625,Lembap,18.374482,Sepoi Sepoi,163,2046,2209
+358,2011-12-24,Musim Dingin,2011,Desember,Sabtu,Tidak,Tidak,Cerah/Berawan,12.4025,14.9621,Dingin,54.25,Nyaman,12.750368,Sepoi Sepoi,155,856,1011
+359,2011-12-25,Musim Dingin,2011,Desember,Minggu,Tidak,Tidak,Cerah/Berawan,11.266103,13.998050000000001,Dingin,68.13040000000001,Lembap,10.391097,Sepoi Sepoi,303,451,754
+360,2011-12-26,Musim Dingin,2011,Desember,Senin,Ya,Tidak,Cerah/Berawan,13.191299,15.77675,Nyaman,50.6957,Nyaman,16.044155,Sepoi Sepoi,430,887,1317
+361,2011-12-27,Musim Dingin,2011,Desember,Selasa,Tidak,Ya,Kabut/Berawan,13.325000000000001,16.38165,Nyaman,76.25,Sangat Lembap,12.62615,Sepoi Sepoi,103,1059,1162
+362,2011-12-28,Musim Dingin,2011,Desember,Rabu,Tidak,Ya,Cerah/Berawan,12.264330000000001,13.9987,Dingin,50.39130000000001,Nyaman,19.695386999999997,Sepoi Sepoi,255,2047,2302
+363,2011-12-29,Musim Dingin,2011,Desember,Kamis,Tidak,Ya,Cerah/Berawan,10.181653,13.194600000000001,Dingin,57.4167,Nyaman,8.000604000000001,Tenang,254,2169,2423
+364,2011-12-30,Musim Dingin,2011,Desember,Jumat,Tidak,Ya,Cerah/Berawan,12.778347000000002,15.9406,Nyaman,63.6667,Lembap,9.000579,Tenang,491,2508,2999
+365,2011-12-31,Musim Dingin,2011,Desember,Sabtu,Tidak,Tidak,Cerah/Berawan,16.81,20.70605,Nyaman,61.583299999999994,Lembap,14.750318,Sepoi Sepoi,665,1820,2485
+366,2012-01-01,Musim Dingin,2012,Januari,Minggu,Tidak,Tidak,Cerah/Berawan,15.17,18.78105,Nyaman,69.25,Lembap,12.875189,Sepoi Sepoi,686,1608,2294
+367,2012-01-02,Musim Dingin,2012,Januari,Senin,Ya,Tidak,Cerah/Berawan,11.194763,12.615199999999998,Dingin,38.130399999999995,Kering,22.087555,Sedang,244,1707,1951
+368,2012-01-03,Musim Dingin,2012,Januari,Selasa,Tidak,Ya,Cerah/Berawan,6.1499999999999995,6.31375,Dingin,44.125,Nyaman,24.499957000000002,Sedang,89,2147,2236
+369,2012-01-04,Musim Dingin,2012,Januari,Rabu,Tidak,Ya,Kabut/Berawan,4.4075,5.96685,Dingin,41.4583,Nyaman,12.3749,Sepoi Sepoi,95,2273,2368
+370,2012-01-05,Musim Dingin,2012,Januari,Kamis,Tidak,Ya,Cerah/Berawan,10.899153,13.9206,Dingin,52.416700000000006,Nyaman,8.709128999999999,Tenang,140,3132,3272
+371,2012-01-06,Musim Dingin,2012,Januari,Jumat,Tidak,Ya,Cerah/Berawan,13.700847,17.01335,Nyaman,54.2083,Nyaman,11.249836,Sepoi Sepoi,307,3791,4098
+372,2012-01-07,Musim Dingin,2012,Januari,Sabtu,Tidak,Tidak,Cerah/Berawan,16.126653,19.53895,Nyaman,53.1667,Nyaman,11.708786,Sepoi Sepoi,1070,3451,4521
+373,2012-01-08,Musim Dingin,2012,Januari,Minggu,Tidak,Tidak,Cerah/Berawan,13.8375,17.012900000000002,Nyaman,46.5,Nyaman,12.833314,Sepoi Sepoi,599,2826,3425
+374,2012-01-09,Musim Dingin,2012,Januari,Senin,Tidak,Ya,Kabut/Berawan,9.190847,12.37395,Dingin,70.1667,Lembap,6.6263000000000005,Tenang,106,2270,2376
+375,2012-01-10,Musim Dingin,2012,Januari,Selasa,Tidak,Ya,Cerah/Berawan,12.656536000000001,15.9413,Nyaman,64.65220000000001,Lembap,12.565984,Sepoi Sepoi,173,3425,3598
+376,2012-01-11,Musim Dingin,2012,Januari,Rabu,Tidak,Ya,Kabut/Berawan,11.240847,14.14105,Dingin,84.75,Sangat Lembap,8.791807,Tenang,92,2085,2177
+377,2012-01-12,Musim Dingin,2012,Januari,Kamis,Tidak,Ya,Kabut/Berawan,15.682500000000001,19.0969,Nyaman,80.2917,Sangat Lembap,12.124789,Sepoi Sepoi,269,3828,4097
+378,2012-01-13,Musim Dingin,2012,Januari,Jumat,Tidak,Ya,Cerah/Berawan,11.240847,12.4681,Dingin,50.74999999999999,Nyaman,25.333236,Sedang,174,3040,3214
+379,2012-01-14,Musim Dingin,2012,Januari,Sabtu,Tidak,Tidak,Cerah/Berawan,7.38,9.15435,Dingin,45.75,Nyaman,12.541260999999999,Sepoi Sepoi,333,2160,2493
+380,2012-01-15,Musim Dingin,2012,Januari,Minggu,Tidak,Tidak,Cerah/Berawan,6.833347000000001,8.081249999999999,Dingin,41.9167,Nyaman,16.834286,Sepoi Sepoi,284,2027,2311
+381,2012-01-16,Musim Dingin,2012,Januari,Senin,Ya,Tidak,Cerah/Berawan,7.79,9.53315,Dingin,52.25,Nyaman,15.500986000000001,Sepoi Sepoi,217,2081,2298
+382,2012-01-17,Musim Dingin,2012,Januari,Selasa,Tidak,Ya,Kabut/Berawan,15.294763,18.2139,Nyaman,71.6087,Lembap,23.39171,Sedang,127,2808,2935
+383,2012-01-18,Musim Dingin,2012,Januari,Rabu,Tidak,Ya,Cerah/Berawan,12.436653000000002,13.7627,Dingin,44.333299999999994,Nyaman,27.833743,Sedang,109,3267,3376
+384,2012-01-19,Musim Dingin,2012,Januari,Kamis,Tidak,Ya,Cerah/Berawan,7.79,9.501900000000001,Dingin,49.75,Nyaman,14.750586,Sepoi Sepoi,130,3162,3292
+385,2012-01-20,Musim Dingin,2012,Januari,Jumat,Tidak,Ya,Kabut/Berawan,8.9175,11.047899999999998,Dingin,45.0,Nyaman,13.58425,Sepoi Sepoi,115,3048,3163
+386,2012-01-21,Musim Dingin,2012,Januari,Sabtu,Tidak,Tidak,Kabut/Berawan,7.106653,8.74375,Dingin,83.125,Sangat Lembap,14.917014,Sepoi Sepoi,67,1234,1301
+387,2012-01-22,Musim Dingin,2012,Januari,Minggu,Tidak,Tidak,Kabut/Berawan,6.6625000000000005,8.1125,Dingin,79.625,Sangat Lembap,13.375746000000001,Sepoi Sepoi,196,1781,1977
+388,2012-01-23,Musim Dingin,2012,Januari,Senin,Tidak,Ya,Kabut/Berawan,8.951653,12.152899999999999,Dingin,91.125,Ekstrem Lembap,7.417436,Tenang,145,2287,2432
+389,2012-01-24,Musim Dingin,2012,Januari,Selasa,Tidak,Ya,Cerah/Berawan,14.0425,17.455399999999997,Nyaman,83.58330000000001,Sangat Lembap,8.292389,Tenang,439,3900,4339
+390,2012-01-25,Musim Dingin,2012,Januari,Rabu,Tidak,Ya,Cerah/Berawan,12.060847,14.74105,Dingin,64.375,Lembap,10.791756999999999,Sepoi Sepoi,467,3803,4270
+391,2012-01-26,Musim Dingin,2012,Januari,Kamis,Tidak,Ya,Kabut/Berawan,14.008347,17.8025,Nyaman,76.95830000000001,Sangat Lembap,4.9175186,Tenang,244,3831,4075
+392,2012-01-27,Musim Dingin,2012,Januari,Jumat,Tidak,Ya,Kabut/Berawan,17.425,20.76915,Nyaman,74.125,Lembap,22.958689,Sedang,269,3187,3456
+393,2012-01-28,Musim Dingin,2012,Januari,Sabtu,Tidak,Tidak,Cerah/Berawan,12.949152999999999,16.318949999999997,Nyaman,54.333299999999994,Nyaman,14.125542999999999,Sepoi Sepoi,775,3248,4023
+394,2012-01-29,Musim Dingin,2012,Januari,Minggu,Tidak,Tidak,Cerah/Berawan,11.5825,13.63605,Dingin,31.125000000000004,Kering,16.08335,Sepoi Sepoi,558,2685,3243
+395,2012-01-30,Musim Dingin,2012,Januari,Senin,Tidak,Ya,Cerah/Berawan,11.035847,13.13125,Dingin,40.0833,Nyaman,14.458064,Sepoi Sepoi,126,3498,3624
+396,2012-01-31,Musim Dingin,2012,Januari,Selasa,Tidak,Ya,Cerah/Berawan,15.99,19.06585,Nyaman,41.6667,Nyaman,17.541739,Sepoi Sepoi,324,4185,4509
+397,2012-02-01,Musim Dingin,2012,Februari,Rabu,Tidak,Ya,Cerah/Berawan,19.235847,23.326900000000002,Nyaman,50.79169999999999,Nyaman,12.667489000000002,Sepoi Sepoi,304,4275,4579
+398,2012-02-02,Musim Dingin,2012,Februari,Kamis,Tidak,Ya,Kabut/Berawan,16.365847,19.94855,Nyaman,67.29169999999999,Lembap,12.541528999999999,Sepoi Sepoi,190,3571,3761
+399,2012-02-03,Musim Dingin,2012,Februari,Jumat,Tidak,Ya,Cerah/Berawan,12.846652999999998,15.4673,Nyaman,52.6667,Nyaman,11.959232,Sepoi Sepoi,310,3841,4151
+400,2012-02-04,Musim Dingin,2012,Februari,Sabtu,Tidak,Tidak,Kabut/Berawan,10.830846999999999,13.63625,Dingin,77.95830000000001,Sangat Lembap,8.167032,Tenang,384,2448,2832
+401,2012-02-05,Musim Dingin,2012,Februari,Minggu,Tidak,Tidak,Kabut/Berawan,10.899153,13.22605,Dingin,68.7917,Lembap,11.791732000000001,Sepoi Sepoi,318,2629,2947
+402,2012-02-06,Musim Dingin,2012,Februari,Senin,Tidak,Ya,Cerah/Berawan,11.586969,14.8213,Dingin,62.2174,Lembap,10.304599999999999,Sepoi Sepoi,206,3578,3784
+403,2012-02-07,Musim Dingin,2012,Februari,Selasa,Tidak,Ya,Cerah/Berawan,14.520847,18.0552,Nyaman,49.625,Nyaman,9.874393000000001,Tenang,199,4176,4375
+404,2012-02-08,Musim Dingin,2012,Februari,Rabu,Tidak,Ya,Kabut/Berawan,10.523347,13.321050000000001,Dingin,72.2917,Lembap,8.959307,Tenang,109,2693,2802
+405,2012-02-09,Musim Dingin,2012,Februari,Kamis,Tidak,Ya,Cerah/Berawan,10.865,13.0994,Dingin,56.2083,Nyaman,13.000478999999999,Sepoi Sepoi,163,3667,3830
+406,2012-02-10,Musim Dingin,2012,Februari,Jumat,Tidak,Ya,Kabut/Berawan,11.514153,14.6779,Dingin,54.0,Nyaman,7.834243000000001,Tenang,227,3604,3831
+407,2012-02-11,Musim Dingin,2012,Februari,Sabtu,Tidak,Tidak,Hujan/Salju Ringan,9.190847,10.54335,Dingin,73.125,Lembap,19.416332,Sepoi Sepoi,192,1977,2169
+408,2012-02-12,Musim Dingin,2012,Februari,Minggu,Tidak,Tidak,Cerah/Berawan,5.2275,5.0828999999999995,Dingin,46.4583,Nyaman,27.417204,Sedang,73,1456,1529
+409,2012-02-13,Musim Dingin,2012,Februari,Senin,Tidak,Ya,Cerah/Berawan,9.1225,11.39565,Dingin,41.125,Nyaman,11.207961,Sepoi Sepoi,94,3328,3422
+410,2012-02-14,Musim Dingin,2012,Februari,Selasa,Tidak,Ya,Kabut/Berawan,13.085847,16.697300000000002,Nyaman,50.875,Nyaman,9.458993,Tenang,135,3787,3922
+411,2012-02-15,Musim Dingin,2012,Februari,Rabu,Tidak,Ya,Cerah/Berawan,14.281653,17.58145,Nyaman,53.125,Nyaman,12.167200000000001,Sepoi Sepoi,141,4028,4169
+412,2012-02-16,Musim Dingin,2012,Februari,Kamis,Tidak,Ya,Kabut/Berawan,12.983346999999998,16.5081,Nyaman,75.29169999999999,Sangat Lembap,6.125475000000001,Tenang,74,2931,3005
+413,2012-02-17,Musim Dingin,2012,Februari,Jumat,Tidak,Ya,Cerah/Berawan,14.076653,17.58145,Nyaman,63.4583,Lembap,13.791682,Sepoi Sepoi,349,3805,4154
+414,2012-02-18,Musim Dingin,2012,Februari,Sabtu,Tidak,Tidak,Cerah/Berawan,14.213347,17.77125,Nyaman,53.4583,Nyaman,12.792243,Sepoi Sepoi,1435,2883,4318
+415,2012-02-19,Musim Dingin,2012,Februari,Minggu,Tidak,Tidak,Kabut/Berawan,11.48,13.2894,Dingin,51.5833,Nyaman,16.958504,Sepoi Sepoi,618,2071,2689
+416,2012-02-20,Musim Dingin,2012,Februari,Senin,Ya,Tidak,Cerah/Berawan,11.48,13.66955,Dingin,50.7826,Nyaman,15.348561,Sepoi Sepoi,502,2627,3129
+417,2012-02-21,Musim Dingin,2012,Februari,Selasa,Tidak,Ya,Cerah/Berawan,11.800866000000001,14.755650000000001,Dingin,59.434799999999996,Nyaman,13.783039,Sepoi Sepoi,163,3614,3777
+418,2012-02-22,Musim Dingin,2012,Februari,Rabu,Tidak,Ya,Cerah/Berawan,16.229153,19.63335,Nyaman,56.7917,Nyaman,15.709557,Sepoi Sepoi,394,4379,4773
+419,2012-02-23,Musim Dingin,2012,Februari,Kamis,Tidak,Ya,Cerah/Berawan,18.620846999999998,22.2223,Nyaman,55.45830000000001,Nyaman,12.791171,Sepoi Sepoi,516,4546,5062
+420,2012-02-24,Musim Dingin,2012,Februari,Jumat,Tidak,Ya,Kabut/Berawan,16.7075,20.54855,Nyaman,73.75,Lembap,15.916989,Sepoi Sepoi,246,3241,3487
+421,2012-02-25,Musim Dingin,2012,Februari,Sabtu,Tidak,Tidak,Cerah/Berawan,11.924153,12.78375,Dingin,39.5833,Kering,28.250014,Sedang,317,2415,2732
+422,2012-02-26,Musim Dingin,2012,Februari,Minggu,Tidak,Tidak,Cerah/Berawan,11.445847,13.4154,Dingin,41.0,Nyaman,13.750342999999999,Sepoi Sepoi,515,2874,3389
+423,2012-02-27,Musim Dingin,2012,Februari,Senin,Tidak,Ya,Cerah/Berawan,15.033347000000001,17.8977,Nyaman,49.0833,Nyaman,17.958211000000002,Sepoi Sepoi,253,4069,4322
+424,2012-02-28,Musim Dingin,2012,Februari,Selasa,Tidak,Ya,Cerah/Berawan,14.725847,17.67625,Nyaman,39.5833,Kering,12.958939,Sepoi Sepoi,229,4134,4363
+425,2012-02-29,Musim Dingin,2012,Februari,Rabu,Tidak,Ya,Kabut/Berawan,14.118267999999999,17.4235,Nyaman,80.4783,Sangat Lembap,12.000839,Sepoi Sepoi,65,1769,1834
+426,2012-03-01,Musim Semi,2012,Maret,Kamis,Tidak,Ya,Cerah/Berawan,19.919153,23.768549999999998,Nyaman,61.5417,Lembap,15.208129,Sepoi Sepoi,325,4665,4990
+427,2012-03-02,Musim Semi,2012,Maret,Jumat,Tidak,Ya,Kabut/Berawan,14.486653,17.9921,Nyaman,65.7083,Lembap,9.708568,Tenang,246,2948,3194
+428,2012-03-03,Musim Semi,2012,Maret,Sabtu,Tidak,Tidak,Kabut/Berawan,16.980847,20.6746,Nyaman,62.125,Lembap,10.792293,Sepoi Sepoi,956,3110,4066
+429,2012-03-04,Musim Semi,2012,Maret,Minggu,Tidak,Tidak,Cerah/Berawan,13.359153,15.15105,Nyaman,40.3333,Nyaman,22.416257,Sedang,710,2713,3423
+430,2012-03-05,Musim Semi,2012,Maret,Senin,Tidak,Ya,Cerah/Berawan,9.976652999999999,12.05855,Dingin,50.625,Nyaman,15.333486,Sepoi Sepoi,203,3130,3333
+431,2012-03-06,Musim Semi,2012,Maret,Selasa,Tidak,Ya,Cerah/Berawan,10.591652999999999,12.752099999999999,Dingin,45.6667,Nyaman,13.458625,Sepoi Sepoi,221,3735,3956
+432,2012-03-07,Musim Semi,2012,Maret,Rabu,Tidak,Ya,Cerah/Berawan,16.570847,19.255,Nyaman,51.3333,Nyaman,23.167193,Sedang,432,4484,4916
+433,2012-03-08,Musim Semi,2012,Maret,Kamis,Tidak,Ya,Cerah/Berawan,21.627499999999998,26.230199999999996,Hangat,56.75,Nyaman,29.584721,Sedang,486,4896,5382
+434,2012-03-09,Musim Semi,2012,Maret,Jumat,Tidak,Ya,Kabut/Berawan,16.844153,19.85415,Nyaman,40.708299999999994,Nyaman,27.7916,Sedang,447,4122,4569
+435,2012-03-10,Musim Semi,2012,Maret,Sabtu,Tidak,Tidak,Cerah/Berawan,11.7875,13.888349999999999,Dingin,35.0417,Kering,15.125250000000001,Sepoi Sepoi,968,3150,4118
+436,2012-03-11,Musim Semi,2012,Maret,Minggu,Tidak,Tidak,Cerah/Berawan,14.831299,17.9835,Nyaman,47.6957,Nyaman,14.913329000000001,Sepoi Sepoi,1658,3253,4911
+437,2012-03-12,Musim Semi,2012,Maret,Senin,Tidak,Ya,Cerah/Berawan,19.133347,22.9796,Nyaman,48.9167,Nyaman,13.916771,Sepoi Sepoi,838,4460,5298
+438,2012-03-13,Musim Semi,2012,Maret,Selasa,Tidak,Ya,Cerah/Berawan,23.165,27.14645,Hangat,61.75000000000001,Lembap,15.87565,Sepoi Sepoi,762,5085,5847
+439,2012-03-14,Musim Semi,2012,Maret,Rabu,Tidak,Ya,Cerah/Berawan,23.4725,27.43085,Hangat,50.708299999999994,Nyaman,7.709154,Tenang,997,5315,6312
+440,2012-03-15,Musim Semi,2012,Maret,Kamis,Tidak,Ya,Cerah/Berawan,22.857499999999998,26.64125,Hangat,57.958299999999994,Nyaman,10.042161,Sepoi Sepoi,1005,5187,6192
+441,2012-03-16,Musim Semi,2012,Maret,Jumat,Tidak,Ya,Kabut/Berawan,17.869153,21.81145,Nyaman,84.20830000000001,Sangat Lembap,7.583864,Tenang,548,3830,4378
+442,2012-03-17,Musim Semi,2012,Maret,Sabtu,Tidak,Tidak,Kabut/Berawan,21.080847000000002,25.252299999999998,Hangat,75.5833,Sangat Lembap,7.417168,Tenang,3155,4681,7836
+443,2012-03-18,Musim Semi,2012,Maret,Minggu,Tidak,Tidak,Kabut/Berawan,19.3725,23.200000000000003,Nyaman,81.0,Sangat Lembap,8.501161,Tenang,2207,3685,5892
+444,2012-03-19,Musim Semi,2012,Maret,Senin,Tidak,Ya,Cerah/Berawan,22.345000000000002,26.64105,Hangat,72.875,Lembap,10.875238999999999,Sepoi Sepoi,982,5171,6153
+445,2012-03-20,Musim Semi,2012,Maret,Selasa,Tidak,Ya,Cerah/Berawan,22.994153,26.926650000000002,Hangat,80.7917,Sangat Lembap,8.125157,Tenang,1051,5042,6093
+446,2012-03-21,Musim Semi,2012,Maret,Rabu,Tidak,Ya,Kabut/Berawan,21.798347,25.6629,Hangat,82.125,Sangat Lembap,6.000406099999999,Tenang,1122,5108,6230
+447,2012-03-22,Musim Semi,2012,Maret,Kamis,Tidak,Ya,Cerah/Berawan,22.720847,26.57835,Hangat,83.125,Sangat Lembap,7.876654,Tenang,1334,5537,6871
+448,2012-03-23,Musim Semi,2012,Maret,Jumat,Tidak,Ya,Kabut/Berawan,24.668346999999997,28.50335,Hangat,69.41669999999999,Lembap,7.7921000000000005,Tenang,2469,5893,8362
+449,2012-03-24,Musim Semi,2012,Maret,Sabtu,Tidak,Tidak,Kabut/Berawan,20.6025,24.336650000000002,Nyaman,88.5417,Ekstrem Lembap,12.916461,Sepoi Sepoi,1033,2339,3372
+450,2012-03-25,Musim Semi,2012,Maret,Minggu,Tidak,Tidak,Kabut/Berawan,17.9375,21.874399999999998,Nyaman,88.0833,Ekstrem Lembap,14.791924999999999,Sepoi Sepoi,1532,3464,4996
+451,2012-03-26,Musim Semi,2012,Maret,Senin,Tidak,Ya,Cerah/Berawan,18.279153,21.9375,Nyaman,47.7917,Nyaman,25.917007,Sedang,795,4763,5558
+452,2012-03-27,Musim Semi,2012,Maret,Selasa,Tidak,Ya,Cerah/Berawan,13.256653,15.7827,Nyaman,28.999999999999996,Kering,12.541864,Sepoi Sepoi,531,4571,5102
+453,2012-03-28,Musim Semi,2012,Maret,Rabu,Tidak,Ya,Cerah/Berawan,19.850847,23.5475,Nyaman,48.125,Nyaman,19.541957,Sepoi Sepoi,674,5024,5698
+454,2012-03-29,Musim Semi,2012,Maret,Kamis,Tidak,Ya,Cerah/Berawan,20.260847000000002,24.1152,Nyaman,43.9167,Nyaman,21.41655,Sedang,834,5299,6133
+455,2012-03-30,Musim Semi,2012,Maret,Jumat,Tidak,Ya,Kabut/Berawan,15.17,18.78105,Nyaman,58.0833,Nyaman,9.250489,Tenang,796,4663,5459
+456,2012-03-31,Musim Semi,2012,Maret,Sabtu,Tidak,Tidak,Kabut/Berawan,17.390847,21.0854,Nyaman,73.83330000000001,Lembap,16.791338999999997,Sepoi Sepoi,2301,3934,6235
+457,2012-04-01,Musim Semi,2012,April,Minggu,Tidak,Tidak,Kabut/Berawan,17.459153,20.86435,Nyaman,67.625,Lembap,11.541889,Sepoi Sepoi,2347,3694,6041
+458,2012-04-02,Musim Semi,2012,April,Senin,Tidak,Ya,Cerah/Berawan,17.790433,21.37565,Nyaman,50.4348,Nyaman,20.913313,Sedang,1208,4728,5936
+459,2012-04-03,Musim Semi,2012,April,Selasa,Tidak,Ya,Cerah/Berawan,19.133347,23.07415,Nyaman,39.6667,Kering,6.708911,Tenang,1348,5424,6772
+460,2012-04-04,Musim Semi,2012,April,Rabu,Tidak,Ya,Cerah/Berawan,22.208347,26.6725,Hangat,46.958299999999994,Nyaman,12.125325,Sepoi Sepoi,1058,5378,6436
+461,2012-04-05,Musim Semi,2012,April,Kamis,Tidak,Ya,Cerah/Berawan,17.835,21.55815,Nyaman,37.416700000000006,Kering,14.708443,Sepoi Sepoi,1192,5265,6457
+462,2012-04-06,Musim Semi,2012,April,Jumat,Tidak,Ya,Cerah/Berawan,16.536653,19.538349999999998,Nyaman,37.7083,Kering,20.125996,Sedang,1807,4653,6460
+463,2012-04-07,Musim Semi,2012,April,Sabtu,Tidak,Tidak,Cerah/Berawan,17.9375,21.306449999999998,Nyaman,25.4167,Kering,18.416356999999998,Sepoi Sepoi,3252,3605,6857
+464,2012-04-08,Musim Semi,2012,April,Minggu,Tidak,Tidak,Cerah/Berawan,20.5,24.62125,Nyaman,27.5833,Kering,15.583931999999999,Sepoi Sepoi,2230,2939,5169
+465,2012-04-09,Musim Semi,2012,April,Senin,Tidak,Ya,Cerah/Berawan,20.055847,23.8319,Nyaman,31.75,Kering,23.999132,Sedang,905,4680,5585
+466,2012-04-10,Musim Semi,2012,April,Selasa,Tidak,Ya,Cerah/Berawan,18.313347,21.81165,Nyaman,43.5,Nyaman,16.708125000000003,Sepoi Sepoi,819,5099,5918
+467,2012-04-11,Musim Semi,2012,April,Rabu,Tidak,Ya,Cerah/Berawan,14.296536,16.8637,Nyaman,46.9565,Nyaman,19.783358,Sepoi Sepoi,482,4380,4862
+468,2012-04-12,Musim Semi,2012,April,Kamis,Tidak,Ya,Cerah/Berawan,16.2975,19.3802,Nyaman,46.625,Nyaman,19.458743,Sepoi Sepoi,663,4746,5409
+469,2012-04-13,Musim Semi,2012,April,Jumat,Tidak,Ya,Cerah/Berawan,18.142500000000002,21.590400000000002,Nyaman,40.8333,Nyaman,10.416557,Sepoi Sepoi,1252,5146,6398
+470,2012-04-14,Musim Semi,2012,April,Sabtu,Tidak,Tidak,Cerah/Berawan,20.294999999999998,24.3998,Nyaman,50.29169999999999,Nyaman,12.791439,Sepoi Sepoi,2795,4665,7460
+471,2012-04-15,Musim Semi,2012,April,Minggu,Tidak,Tidak,Cerah/Berawan,24.873347,28.69375,Hangat,50.79169999999999,Nyaman,15.083643,Sepoi Sepoi,2846,4286,7132
+472,2012-04-16,Musim Semi,2012,April,Senin,Ya,Tidak,Cerah/Berawan,27.230846999999997,30.746250000000003,Hangat,56.166700000000006,Nyaman,19.083543,Sepoi Sepoi,1198,5172,6370
+473,2012-04-17,Musim Semi,2012,April,Selasa,Tidak,Ya,Cerah/Berawan,24.941653000000002,29.92435,Hangat,39.0417,Kering,18.333143,Sepoi Sepoi,989,5702,6691
+474,2012-04-18,Musim Semi,2012,April,Rabu,Tidak,Ya,Kabut/Berawan,18.996653,22.8519,Nyaman,56.9167,Nyaman,11.250104,Sepoi Sepoi,347,4020,4367
+475,2012-04-19,Musim Semi,2012,April,Kamis,Tidak,Ya,Cerah/Berawan,20.431653,24.6523,Nyaman,61.25000000000001,Lembap,4.417256399999999,Tenang,846,5719,6565
+476,2012-04-20,Musim Semi,2012,April,Jumat,Tidak,Ya,Cerah/Berawan,21.593347,25.78875,Hangat,69.4583,Lembap,10.041357,Sepoi Sepoi,1340,5950,7290
+477,2012-04-21,Musim Semi,2012,April,Sabtu,Tidak,Tidak,Cerah/Berawan,23.369999999999997,27.14605,Hangat,68.2917,Lembap,19.000328999999997,Sepoi Sepoi,2541,4083,6624
+478,2012-04-22,Musim Semi,2012,April,Minggu,Tidak,Tidak,Hujan/Salju Ringan,16.263347,19.4752,Nyaman,83.54169999999999,Sangat Lembap,23.084582,Sedang,120,907,1027
+479,2012-04-23,Musim Semi,2012,April,Senin,Tidak,Ya,Kabut/Berawan,13.188346999999998,15.056249999999999,Nyaman,76.66669999999999,Sangat Lembap,20.334232,Sedang,195,3019,3214
+480,2012-04-24,Musim Semi,2012,April,Selasa,Tidak,Ya,Cerah/Berawan,16.946653,20.26415,Nyaman,45.4167,Nyaman,16.708661,Sepoi Sepoi,518,5115,5633
+481,2012-04-25,Musim Semi,2012,April,Rabu,Tidak,Ya,Cerah/Berawan,19.543347,23.51585,Nyaman,42.7917,Nyaman,7.959064,Tenang,655,5541,6196
+482,2012-04-26,Musim Semi,2012,April,Kamis,Tidak,Ya,Kabut/Berawan,20.431653,24.17915,Nyaman,75.66669999999999,Sangat Lembap,11.833875,Sepoi Sepoi,475,4551,5026
+483,2012-04-27,Musim Semi,2012,April,Jumat,Tidak,Ya,Cerah/Berawan,18.7575,22.63185,Nyaman,40.0833,Nyaman,23.291411,Sedang,1014,5219,6233
+484,2012-04-28,Musim Semi,2012,April,Sabtu,Tidak,Tidak,Kabut/Berawan,15.443347,18.8752,Nyaman,48.9583,Nyaman,8.708325,Tenang,1120,3100,4220
+485,2012-04-29,Musim Semi,2012,April,Minggu,Tidak,Tidak,Cerah/Berawan,18.791653,22.50605,Nyaman,58.7083,Nyaman,7.8328359999999995,Tenang,2229,4075,6304
+486,2012-04-30,Musim Semi,2012,April,Senin,Tidak,Ya,Kabut/Berawan,19.030847,22.8848,Nyaman,56.99999999999999,Nyaman,11.499746,Sepoi Sepoi,665,4907,5572
+487,2012-05-01,Musim Semi,2012,Mei,Selasa,Tidak,Ya,Kabut/Berawan,25.146653,28.85105,Hangat,65.95830000000001,Lembap,10.458432,Sepoi Sepoi,653,5087,5740
+488,2012-05-02,Musim Semi,2012,Mei,Rabu,Tidak,Ya,Cerah/Berawan,23.130847,26.894800000000004,Hangat,79.7083,Sangat Lembap,9.249885999999998,Tenang,667,5502,6169
+489,2012-05-03,Musim Semi,2012,Mei,Kamis,Tidak,Ya,Kabut/Berawan,22.96,26.862099999999998,Hangat,76.83330000000001,Sangat Lembap,8.957632,Tenang,764,5657,6421
+490,2012-05-04,Musim Semi,2012,Mei,Jumat,Tidak,Ya,Cerah/Berawan,25.7275,29.54585,Hangat,73.54169999999999,Lembap,10.916846,Sepoi Sepoi,1069,5227,6296
+491,2012-05-05,Musim Semi,2012,Mei,Sabtu,Tidak,Tidak,Kabut/Berawan,25.488346999999997,29.2304,Hangat,75.66669999999999,Sangat Lembap,10.250464,Sepoi Sepoi,2496,4387,6883
+492,2012-05-06,Musim Semi,2012,Mei,Minggu,Tidak,Tidak,Kabut/Berawan,23.0625,27.336850000000002,Hangat,74.0,Lembap,10.041893,Sepoi Sepoi,2135,4224,6359
+493,2012-05-07,Musim Semi,2012,Mei,Senin,Tidak,Ya,Kabut/Berawan,22.037499999999998,26.3571,Hangat,66.41669999999999,Lembap,15.458307000000001,Sepoi Sepoi,1008,5265,6273
+494,2012-05-08,Musim Semi,2012,Mei,Selasa,Tidak,Ya,Kabut/Berawan,23.848347,27.87355,Hangat,68.58330000000001,Lembap,19.833942999999998,Sepoi Sepoi,738,4990,5728
+495,2012-05-09,Musim Semi,2012,Mei,Rabu,Tidak,Ya,Kabut/Berawan,23.575,27.65125,Hangat,74.4167,Lembap,14.499604,Sepoi Sepoi,620,4097,4717
+496,2012-05-10,Musim Semi,2012,Mei,Kamis,Tidak,Ya,Cerah/Berawan,20.739152999999998,24.58915,Nyaman,55.2083,Nyaman,21.042220999999998,Sedang,1026,5546,6572
+497,2012-05-11,Musim Semi,2012,Mei,Jumat,Tidak,Ya,Cerah/Berawan,21.866653,26.04165,Hangat,36.0417,Kering,15.874779,Sepoi Sepoi,1319,5711,7030
+498,2012-05-12,Musim Semi,2012,Mei,Sabtu,Tidak,Tidak,Cerah/Berawan,23.130847,27.24085,Hangat,48.0417,Nyaman,8.249911,Tenang,2622,4807,7429
+499,2012-05-13,Musim Semi,2012,Mei,Minggu,Tidak,Tidak,Cerah/Berawan,25.1125,29.2619,Hangat,57.62500000000001,Nyaman,15.082839,Sepoi Sepoi,2172,3946,6118
+500,2012-05-14,Musim Semi,2012,Mei,Senin,Tidak,Ya,Kabut/Berawan,23.506653,27.495000000000005,Hangat,78.95830000000001,Sangat Lembap,14.250364,Sepoi Sepoi,342,2501,2843
+501,2012-05-15,Musim Semi,2012,Mei,Selasa,Tidak,Ya,Kabut/Berawan,25.078346999999997,28.8202,Hangat,79.45830000000001,Sangat Lembap,9.875264,Tenang,625,4490,5115
+502,2012-05-16,Musim Semi,2012,Mei,Rabu,Tidak,Ya,Cerah/Berawan,26.103347,29.798750000000002,Hangat,69.7917,Lembap,8.208304,Tenang,991,6433,7424
+503,2012-05-17,Musim Semi,2012,Mei,Kamis,Tidak,Ya,Cerah/Berawan,24.326653,28.630650000000003,Hangat,52.0,Nyaman,15.374825000000001,Sepoi Sepoi,1242,6142,7384
+504,2012-05-18,Musim Semi,2012,Mei,Jumat,Tidak,Ya,Cerah/Berawan,23.130847,27.55605,Hangat,52.33330000000001,Nyaman,9.166739,Tenang,1521,6118,7639
+505,2012-05-19,Musim Semi,2012,Mei,Sabtu,Tidak,Tidak,Cerah/Berawan,24.599999999999998,28.345399999999998,Hangat,45.625,Nyaman,5.626325,Tenang,3410,4884,8294
+506,2012-05-20,Musim Semi,2012,Mei,Minggu,Tidak,Tidak,Cerah/Berawan,25.454152999999998,29.19835,Hangat,53.041700000000006,Nyaman,17.042589,Sepoi Sepoi,2704,4425,7129
+507,2012-05-21,Musim Semi,2012,Mei,Senin,Tidak,Ya,Kabut/Berawan,24.531653,28.283350000000002,Hangat,81.125,Sangat Lembap,15.624668,Sepoi Sepoi,630,3729,4359
+508,2012-05-22,Musim Semi,2012,Mei,Selasa,Tidak,Ya,Kabut/Berawan,25.215,29.04125,Hangat,76.5833,Sangat Lembap,7.917189,Tenang,819,5254,6073
+509,2012-05-23,Musim Semi,2012,Mei,Rabu,Tidak,Ya,Kabut/Berawan,25.488346999999997,29.230600000000003,Hangat,77.45830000000001,Sangat Lembap,6.834,Tenang,766,4494,5260
+510,2012-05-24,Musim Semi,2012,Mei,Kamis,Tidak,Ya,Cerah/Berawan,26.855,30.335,Hangat,71.6667,Lembap,11.584031999999999,Sepoi Sepoi,1059,5711,6770
+511,2012-05-25,Musim Semi,2012,Mei,Jumat,Tidak,Ya,Cerah/Berawan,27.880000000000003,31.37645,Hangat,74.70830000000001,Lembap,9.41685,Tenang,1417,5317,6734
+512,2012-05-26,Musim Semi,2012,Mei,Sabtu,Tidak,Tidak,Cerah/Berawan,28.392500000000002,32.134800000000006,Hangat,73.25,Lembap,13.332464,Sepoi Sepoi,2855,3681,6536
+513,2012-05-27,Musim Semi,2012,Mei,Minggu,Tidak,Tidak,Cerah/Berawan,28.29,32.07125,Hangat,69.7083,Lembap,14.416457,Sepoi Sepoi,3283,3308,6591
+514,2012-05-28,Musim Semi,2012,Mei,Senin,Ya,Tidak,Cerah/Berawan,29.212500000000002,33.965,Hangat,67.625,Lembap,13.166907,Sepoi Sepoi,2557,3486,6043
+515,2012-05-29,Musim Semi,2012,Mei,Selasa,Tidak,Ya,Cerah/Berawan,29.622500000000002,33.6496,Hangat,68.45830000000001,Lembap,19.7918,Sepoi Sepoi,880,4863,5743
+516,2012-05-30,Musim Semi,2012,Mei,Rabu,Tidak,Ya,Kabut/Berawan,26.923347,30.55645,Hangat,67.0,Lembap,9.000043,Tenang,745,6110,6855
+517,2012-05-31,Musim Semi,2012,Mei,Kamis,Tidak,Ya,Cerah/Berawan,27.880000000000003,31.566450000000003,Hangat,49.2917,Nyaman,13.083693,Sepoi Sepoi,1100,6238,7338
+518,2012-06-01,Musim Panas,2012,Juni,Jumat,Tidak,Ya,Kabut/Berawan,26.820847,30.3981,Hangat,75.5417,Sangat Lembap,15.916720999999999,Sepoi Sepoi,533,3594,4127
+519,2012-06-02,Musim Panas,2012,Juni,Sabtu,Tidak,Tidak,Cerah/Berawan,23.916653,28.3144,Hangat,54.9167,Nyaman,12.499654,Sepoi Sepoi,2795,5325,8120
+520,2012-06-03,Musim Panas,2012,Juni,Minggu,Tidak,Tidak,Cerah/Berawan,24.7025,28.75665,Hangat,49.3333,Nyaman,12.333829,Sepoi Sepoi,2494,5147,7641
+521,2012-06-04,Musim Panas,2012,Juni,Senin,Tidak,Ya,Cerah/Berawan,24.497500000000002,28.91415,Hangat,48.7083,Nyaman,19.083811,Sepoi Sepoi,1071,5927,6998
+522,2012-06-05,Musim Panas,2012,Juni,Selasa,Tidak,Ya,Kabut/Berawan,22.174153,26.294600000000003,Hangat,61.3333,Lembap,14.041525,Sepoi Sepoi,968,6033,7001
+523,2012-06-06,Musim Panas,2012,Juni,Rabu,Tidak,Ya,Cerah/Berawan,22.720847,27.1146,Hangat,61.12499999999999,Lembap,5.167375,Tenang,1027,6028,7055
+524,2012-06-07,Musim Panas,2012,Juni,Kamis,Tidak,Ya,Cerah/Berawan,24.7025,28.4721,Hangat,56.7083,Nyaman,10.542449999999999,Sepoi Sepoi,1038,6456,7494
+525,2012-06-08,Musim Panas,2012,Juni,Jumat,Tidak,Ya,Cerah/Berawan,26.615847000000002,29.8931,Hangat,46.791700000000006,Nyaman,11.750661000000001,Sepoi Sepoi,1488,6248,7736
+526,2012-06-09,Musim Panas,2012,Juni,Sabtu,Tidak,Tidak,Cerah/Berawan,29.144153000000003,32.418350000000004,Hangat,43.7083,Nyaman,9.667229,Tenang,2708,4790,7498
+527,2012-06-10,Musim Panas,2012,Juni,Minggu,Tidak,Tidak,Cerah/Berawan,29.793346999999997,33.175850000000004,Hangat,53.833299999999994,Nyaman,8.959307,Tenang,2224,4374,6598
+528,2012-06-11,Musim Panas,2012,Juni,Senin,Tidak,Ya,Kabut/Berawan,29.554153,32.98605,Hangat,58.791700000000006,Nyaman,13.916771,Sepoi Sepoi,1017,5647,6664
+529,2012-06-12,Musim Panas,2012,Juni,Selasa,Tidak,Ya,Kabut/Berawan,26.786653,29.89375,Hangat,83.3333,Sangat Lembap,14.374581999999998,Sepoi Sepoi,477,4495,4972
+530,2012-06-13,Musim Panas,2012,Juni,Rabu,Tidak,Ya,Cerah/Berawan,26.889153,30.55585,Hangat,58.2083,Nyaman,22.999693,Sedang,1173,6248,7421
+531,2012-06-14,Musim Panas,2012,Juni,Kamis,Tidak,Ya,Cerah/Berawan,26.581653000000003,31.219150000000003,Hangat,56.958299999999994,Nyaman,17.000111,Sepoi Sepoi,1180,6183,7363
+532,2012-06-15,Musim Panas,2012,Juni,Jumat,Tidak,Ya,Cerah/Berawan,26.205847000000002,29.9877,Hangat,58.958299999999994,Nyaman,11.833339,Sepoi Sepoi,1563,6102,7665
+533,2012-06-16,Musim Panas,2012,Juni,Sabtu,Tidak,Tidak,Cerah/Berawan,25.898346999999998,29.735400000000002,Hangat,50.416700000000006,Nyaman,11.166689,Sepoi Sepoi,2963,4739,7702
+534,2012-06-17,Musim Panas,2012,Juni,Minggu,Tidak,Tidak,Cerah/Berawan,24.2925,28.59875,Hangat,59.875,Nyaman,9.708568,Tenang,2634,4344,6978
+535,2012-06-18,Musim Panas,2012,Juni,Senin,Tidak,Ya,Kabut/Berawan,23.301652999999998,27.2421,Hangat,77.79169999999999,Sangat Lembap,11.707982000000001,Sepoi Sepoi,653,4446,5099
+536,2012-06-19,Musim Panas,2012,Juni,Selasa,Tidak,Ya,Cerah/Berawan,28.221653,32.7346,Hangat,69.0,Lembap,9.917139,Tenang,968,5857,6825
+537,2012-06-20,Musim Panas,2012,Juni,Rabu,Tidak,Ya,Cerah/Berawan,32.082499999999996,36.04875,Panas,59.2083,Nyaman,7.625404,Tenang,872,5339,6211
+538,2012-06-21,Musim Panas,2012,Juni,Kamis,Tidak,Ya,Cerah/Berawan,33.039153,37.6271,Panas,56.7917,Nyaman,7.958729,Tenang,778,5127,5905
+539,2012-06-22,Musim Panas,2012,Juni,Jumat,Tidak,Ya,Cerah/Berawan,31.877499999999998,36.20605,Panas,57.375,Nyaman,12.250414000000001,Sepoi Sepoi,964,4859,5823
+540,2012-06-23,Musim Panas,2012,Juni,Sabtu,Tidak,Tidak,Cerah/Berawan,29.998347,32.6396,Hangat,53.4583,Nyaman,12.041307,Sepoi Sepoi,2657,4801,7458
+541,2012-06-24,Musim Panas,2012,Juni,Minggu,Tidak,Tidak,Cerah/Berawan,30.476653000000002,33.7127,Hangat,47.9167,Nyaman,9.750174999999999,Tenang,2551,4340,6891
+542,2012-06-25,Musim Panas,2012,Juni,Senin,Tidak,Ya,Cerah/Berawan,29.349153,32.7021,Hangat,50.416700000000006,Nyaman,20.125661,Sedang,1139,5640,6779
+543,2012-06-26,Musim Panas,2012,Juni,Selasa,Tidak,Ya,Cerah/Berawan,25.864152999999998,29.7352,Hangat,37.3333,Kering,23.292014,Sedang,1077,6365,7442
+544,2012-06-27,Musim Panas,2012,Juni,Rabu,Tidak,Ya,Cerah/Berawan,28.5975,32.0396,Hangat,36.0,Kering,18.208925,Sepoi Sepoi,1077,6258,7335
+545,2012-06-28,Musim Panas,2012,Juni,Kamis,Tidak,Ya,Cerah/Berawan,30.715847,33.7756,Hangat,42.25,Nyaman,11.50055,Sepoi Sepoi,921,5958,6879
+546,2012-06-29,Musim Panas,2012,Juni,Jumat,Tidak,Ya,Cerah/Berawan,34.200847,39.33065,Panas,48.875,Nyaman,11.082939000000001,Sepoi Sepoi,829,4634,5463
+547,2012-06-30,Musim Panas,2012,Juni,Sabtu,Tidak,Tidak,Cerah/Berawan,31.365000000000002,34.3754,Hangat,60.12499999999999,Lembap,10.791756999999999,Sepoi Sepoi,1455,4232,5687
+548,2012-07-01,Musim Panas,2012,Juli,Minggu,Tidak,Tidak,Cerah/Berawan,33.449153,37.53145,Panas,51.87500000000001,Nyaman,11.291443000000001,Sepoi Sepoi,1421,4110,5531
+549,2012-07-02,Musim Panas,2012,Juli,Senin,Tidak,Ya,Cerah/Berawan,32.048347,35.1019,Panas,44.7083,Nyaman,13.082889,Sepoi Sepoi,904,5323,6227
+550,2012-07-03,Musim Panas,2012,Juli,Selasa,Tidak,Ya,Cerah/Berawan,32.014153,35.1325,Panas,49.2083,Nyaman,8.457878999999998,Tenang,1052,5608,6660
+551,2012-07-04,Musim Panas,2012,Juli,Rabu,Ya,Tidak,Cerah/Berawan,32.355847,36.61685,Panas,53.87499999999999,Nyaman,9.041649999999999,Tenang,2562,4841,7403
+552,2012-07-05,Musim Panas,2012,Juli,Kamis,Tidak,Ya,Cerah/Berawan,33.9275,38.06835,Panas,45.7917,Nyaman,12.999943,Sepoi Sepoi,1405,4836,6241
+553,2012-07-06,Musim Panas,2012,Juli,Jumat,Tidak,Ya,Cerah/Berawan,33.961653,37.62665,Panas,45.0833,Nyaman,9.791514,Tenang,1366,4841,6207
+554,2012-07-07,Musim Panas,2012,Juli,Sabtu,Tidak,Tidak,Cerah/Berawan,35.328347,40.24565,Panas,49.2083,Nyaman,10.958118,Sepoi Sepoi,1448,3392,4840
+555,2012-07-08,Musim Panas,2012,Juli,Minggu,Tidak,Tidak,Cerah/Berawan,33.722500000000004,39.5198,Panas,57.375,Nyaman,8.417143,Tenang,1203,3469,4672
+556,2012-07-09,Musim Panas,2012,Juli,Senin,Tidak,Ya,Kabut/Berawan,29.144153000000003,32.7027,Hangat,68.3333,Lembap,12.125325,Sepoi Sepoi,998,5571,6569
+557,2012-07-10,Musim Panas,2012,Juli,Selasa,Tidak,Ya,Kabut/Berawan,29.554153,33.2398,Hangat,66.75,Lembap,10.166379000000001,Sepoi Sepoi,954,5336,6290
+558,2012-07-11,Musim Panas,2012,Juli,Rabu,Tidak,Ya,Cerah/Berawan,29.383347,32.51355,Hangat,63.3333,Lembap,10.166111,Sepoi Sepoi,975,6289,7264
+559,2012-07-12,Musim Panas,2012,Juli,Kamis,Tidak,Ya,Cerah/Berawan,29.349153,32.73415,Hangat,52.9583,Nyaman,9.833924999999999,Tenang,1032,6414,7446
+560,2012-07-13,Musim Panas,2012,Juli,Jumat,Tidak,Ya,Kabut/Berawan,29.998347,33.39665,Hangat,48.5833,Nyaman,5.41695,Tenang,1511,5988,7499
+561,2012-07-14,Musim Panas,2012,Juli,Sabtu,Tidak,Tidak,Kabut/Berawan,28.836653,33.3021,Hangat,69.91669999999999,Lembap,9.626493,Tenang,2355,4614,6969
+562,2012-07-15,Musim Panas,2012,Juli,Minggu,Tidak,Tidak,Cerah/Berawan,30.579152999999998,35.259800000000006,Panas,71.7917,Lembap,11.166689,Sepoi Sepoi,1920,4111,6031
+563,2012-07-16,Musim Panas,2012,Juli,Senin,Tidak,Ya,Cerah/Berawan,31.296653000000003,36.206250000000004,Panas,64.5,Lembap,11.000529,Sepoi Sepoi,1088,5742,6830
+564,2012-07-17,Musim Panas,2012,Juli,Selasa,Tidak,Ya,Cerah/Berawan,33.551653,37.78415,Panas,50.583299999999994,Nyaman,7.666743,Tenang,921,5865,6786
+565,2012-07-18,Musim Panas,2012,Juli,Rabu,Tidak,Ya,Cerah/Berawan,32.526652999999996,37.27915,Panas,57.7083,Nyaman,9.208614,Tenang,799,4914,5713
+566,2012-07-19,Musim Panas,2012,Juli,Kamis,Tidak,Ya,Cerah/Berawan,31.57,35.7321,Panas,60.0417,Lembap,11.083743,Sepoi Sepoi,888,5703,6591
+567,2012-07-20,Musim Panas,2012,Juli,Jumat,Tidak,Ya,Kabut/Berawan,27.299153,30.65125,Hangat,84.4167,Sangat Lembap,14.000789000000001,Sepoi Sepoi,747,5123,5870
+568,2012-07-21,Musim Panas,2012,Juli,Sabtu,Tidak,Tidak,Hujan/Salju Ringan,24.429153,27.495599999999996,Hangat,86.5417,Ekstrem Lembap,14.2911,Sepoi Sepoi,1264,3195,4459
+569,2012-07-22,Musim Panas,2012,Juli,Minggu,Tidak,Tidak,Kabut/Berawan,27.3675,31.156250000000004,Hangat,76.25,Sangat Lembap,6.2926936,Tenang,2544,4866,7410
+570,2012-07-23,Musim Panas,2012,Juli,Senin,Tidak,Ya,Cerah/Berawan,30.408347,34.50085,Hangat,69.41669999999999,Lembap,9.291761,Tenang,1135,5831,6966
+571,2012-07-24,Musim Panas,2012,Juli,Selasa,Tidak,Ya,Cerah/Berawan,30.784153,35.3225,Panas,65.5,Lembap,14.167418,Sepoi Sepoi,1140,6452,7592
+572,2012-07-25,Musim Panas,2012,Juli,Rabu,Tidak,Ya,Cerah/Berawan,29.690847,32.7027,Hangat,45.0,Nyaman,11.0416,Sepoi Sepoi,1383,6790,8173
+573,2012-07-26,Musim Panas,2012,Juli,Kamis,Tidak,Ya,Cerah/Berawan,31.843347,36.96315,Panas,59.66669999999999,Nyaman,19.082470999999998,Sepoi Sepoi,1036,5825,6861
+574,2012-07-27,Musim Panas,2012,Juli,Jumat,Tidak,Ya,Cerah/Berawan,32.048347,36.71085,Panas,59.458299999999994,Nyaman,10.250464,Sepoi Sepoi,1259,5645,6904
+575,2012-07-28,Musim Panas,2012,Juli,Sabtu,Tidak,Tidak,Cerah/Berawan,30.989152999999998,34.8802,Hangat,61.3333,Lembap,10.542449999999999,Sepoi Sepoi,2234,4451,6685
+576,2012-07-29,Musim Panas,2012,Juli,Minggu,Tidak,Tidak,Cerah/Berawan,29.588347,33.39665,Hangat,62.375,Lembap,11.416532,Sepoi Sepoi,2153,4444,6597
+577,2012-07-30,Musim Panas,2012,Juli,Senin,Tidak,Ya,Cerah/Berawan,29.964153,34.24935,Hangat,66.875,Lembap,10.292339,Sepoi Sepoi,1040,6065,7105
+578,2012-07-31,Musim Panas,2012,Juli,Selasa,Tidak,Ya,Cerah/Berawan,29.246653,33.144800000000004,Hangat,70.41669999999999,Lembap,11.083475,Sepoi Sepoi,968,6248,7216
+579,2012-08-01,Musim Panas,2012,Agustus,Rabu,Tidak,Ya,Cerah/Berawan,29.4175,33.3654,Hangat,67.75,Lembap,9.458993,Tenang,1074,6506,7580
+580,2012-08-02,Musim Panas,2012,Agustus,Kamis,Tidak,Ya,Cerah/Berawan,30.8525,35.354400000000005,Panas,65.95830000000001,Lembap,8.666718,Tenang,983,6278,7261
+581,2012-08-03,Musim Panas,2012,Agustus,Jumat,Tidak,Ya,Kabut/Berawan,31.399153,36.143350000000005,Panas,64.25,Lembap,14.458064,Sepoi Sepoi,1328,5847,7175
+582,2012-08-04,Musim Panas,2012,Agustus,Sabtu,Tidak,Tidak,Cerah/Berawan,32.526652999999996,37.56335,Panas,61.3333,Lembap,17.249686,Sepoi Sepoi,2345,4479,6824
+583,2012-08-05,Musim Panas,2012,Agustus,Minggu,Tidak,Tidak,Cerah/Berawan,31.535847,36.55395,Panas,65.25,Lembap,19.458206999999998,Sepoi Sepoi,1707,3757,5464
+584,2012-08-06,Musim Panas,2012,Agustus,Senin,Tidak,Ya,Kabut/Berawan,30.8525,35.5123,Panas,65.4167,Lembap,8.666718,Tenang,1233,5780,7013
+585,2012-08-07,Musim Panas,2012,Agustus,Selasa,Tidak,Ya,Kabut/Berawan,30.169152999999998,34.88105,Hangat,70.375,Lembap,7.8328359999999995,Tenang,1278,5995,7273
+586,2012-08-08,Musim Panas,2012,Agustus,Rabu,Tidak,Ya,Kabut/Berawan,30.75,35.385850000000005,Panas,67.29169999999999,Lembap,7.4169,Tenang,1263,6271,7534
+587,2012-08-09,Musim Panas,2012,Agustus,Kamis,Tidak,Ya,Cerah/Berawan,30.989152999999998,34.9754,Hangat,62.0417,Lembap,10.458699999999999,Sepoi Sepoi,1196,6090,7286
+588,2012-08-10,Musim Panas,2012,Agustus,Jumat,Tidak,Ya,Kabut/Berawan,29.349153,33.3971,Hangat,71.58330000000001,Lembap,16.000471,Sepoi Sepoi,1065,4721,5786
+589,2012-08-11,Musim Panas,2012,Agustus,Sabtu,Tidak,Tidak,Kabut/Berawan,28.392500000000002,31.91335,Hangat,73.2917,Lembap,13.834093,Sepoi Sepoi,2247,4052,6299
+590,2012-08-12,Musim Panas,2012,Agustus,Minggu,Tidak,Tidak,Cerah/Berawan,28.734153000000003,32.22895,Hangat,53.041700000000006,Nyaman,8.208304,Tenang,2182,4362,6544
+591,2012-08-13,Musim Panas,2012,Agustus,Senin,Tidak,Ya,Cerah/Berawan,29.554153,33.112700000000004,Hangat,54.541700000000006,Nyaman,9.126204,Tenang,1207,5676,6883
+592,2012-08-14,Musim Panas,2012,Agustus,Selasa,Tidak,Ya,Cerah/Berawan,29.793346999999997,33.838950000000004,Hangat,68.6667,Lembap,11.333586,Sepoi Sepoi,1128,5656,6784
+593,2012-08-15,Musim Panas,2012,Agustus,Rabu,Tidak,Ya,Cerah/Berawan,28.973347,32.70185,Hangat,61.9583,Lembap,11.374657000000001,Sepoi Sepoi,1198,6149,7347
+594,2012-08-16,Musim Panas,2012,Agustus,Kamis,Tidak,Ya,Cerah/Berawan,29.485847,32.7344,Hangat,51.916700000000006,Nyaman,9.500332,Tenang,1338,6267,7605
+595,2012-08-17,Musim Panas,2012,Agustus,Jumat,Tidak,Ya,Cerah/Berawan,29.656653,12.120000000000001,Dingin,57.0833,Nyaman,15.500718,Sepoi Sepoi,1483,5665,7148
+596,2012-08-18,Musim Panas,2012,Agustus,Sabtu,Tidak,Tidak,Cerah/Berawan,27.811653,30.903550000000003,Hangat,60.3333,Lembap,11.917089,Sepoi Sepoi,2827,5038,7865
+597,2012-08-19,Musim Panas,2012,Agustus,Minggu,Tidak,Tidak,Kabut/Berawan,26.069153,30.1777,Hangat,71.1667,Lembap,5.79215,Tenang,1208,3341,4549
+598,2012-08-20,Musim Panas,2012,Agustus,Senin,Tidak,Ya,Kabut/Berawan,26.069153,29.798350000000003,Hangat,73.4167,Lembap,8.708593,Tenang,1026,5504,6530
+599,2012-08-21,Musim Panas,2012,Agustus,Selasa,Tidak,Ya,Cerah/Berawan,26.615847000000002,30.051250000000003,Hangat,67.375,Lembap,4.8756436,Tenang,1081,5925,7006
+600,2012-08-22,Musim Panas,2012,Agustus,Rabu,Tidak,Ya,Cerah/Berawan,27.3675,31.0927,Hangat,67.7083,Lembap,4.708981100000001,Tenang,1094,6281,7375
+601,2012-08-23,Musim Panas,2012,Agustus,Kamis,Tidak,Ya,Cerah/Berawan,28.529153,31.8504,Hangat,63.5833,Lembap,5.6679186,Tenang,1363,6402,7765
+602,2012-08-24,Musim Panas,2012,Agustus,Jumat,Tidak,Ya,Kabut/Berawan,28.802500000000002,32.355000000000004,Hangat,61.5,Lembap,4.8337686,Tenang,1325,6257,7582
+603,2012-08-25,Musim Panas,2012,Agustus,Sabtu,Tidak,Tidak,Kabut/Berawan,27.128347,30.934800000000003,Hangat,71.2917,Lembap,16.375336,Sepoi Sepoi,1829,4224,6053
+604,2012-08-26,Musim Panas,2012,Agustus,Minggu,Tidak,Tidak,Kabut/Berawan,26.786653,29.799799999999998,Hangat,84.5833,Sangat Lembap,15.333486,Sepoi Sepoi,1483,3772,5255
+605,2012-08-27,Musim Panas,2012,Agustus,Senin,Tidak,Ya,Cerah/Berawan,28.836653,32.7344,Hangat,73.04169999999999,Lembap,8.625110999999999,Tenang,989,5928,6917
+606,2012-08-28,Musim Panas,2012,Agustus,Selasa,Tidak,Ya,Cerah/Berawan,29.861653,33.3025,Hangat,62.0,Lembap,12.791975,Sepoi Sepoi,935,6105,7040
+607,2012-08-29,Musim Panas,2012,Agustus,Rabu,Tidak,Ya,Cerah/Berawan,28.085,31.786649999999998,Hangat,55.2083,Nyaman,7.541653999999999,Tenang,1177,6520,7697
+608,2012-08-30,Musim Panas,2012,Agustus,Kamis,Tidak,Ya,Cerah/Berawan,28.973347,32.63895,Hangat,59.0417,Nyaman,5.1668189,Tenang,1172,6541,7713
+609,2012-08-31,Musim Panas,2012,Agustus,Jumat,Tidak,Ya,Cerah/Berawan,31.330847000000002,34.47,Hangat,58.75,Nyaman,11.291711,Sepoi Sepoi,1433,5917,7350
+610,2012-09-01,Musim Gugur,2012,September,Sabtu,Tidak,Tidak,Kabut/Berawan,30.886653000000003,35.1327,Panas,63.8333,Lembap,7.5835289999999995,Tenang,2352,3788,6140
+611,2012-09-02,Musim Gugur,2012,September,Minggu,Tidak,Tidak,Kabut/Berawan,28.563347,32.45,Hangat,81.5,Sangat Lembap,4.2927436,Tenang,2613,3197,5810
+612,2012-09-03,Musim Gugur,2012,September,Senin,Ya,Tidak,Cerah/Berawan,29.0075,33.081450000000004,Hangat,79.0833,Sangat Lembap,10.125107,Sepoi Sepoi,1965,4069,6034
+613,2012-09-04,Musim Gugur,2012,September,Selasa,Tidak,Ya,Cerah/Berawan,29.759152999999998,34.3444,Hangat,75.5,Sangat Lembap,15.833507,Sepoi Sepoi,867,5997,6864
+614,2012-09-05,Musim Gugur,2012,September,Rabu,Tidak,Ya,Cerah/Berawan,30.203346999999997,35.44915,Panas,74.125,Lembap,12.583136,Sepoi Sepoi,832,6280,7112
+615,2012-09-06,Musim Gugur,2012,September,Kamis,Tidak,Ya,Kabut/Berawan,28.563347,32.766450000000006,Hangat,81.0417,Sangat Lembap,9.542207,Tenang,611,5592,6203
+616,2012-09-07,Musim Gugur,2012,September,Jumat,Tidak,Ya,Cerah/Berawan,28.836653,32.8602,Hangat,73.625,Lembap,11.500282,Sepoi Sepoi,1045,6459,7504
+617,2012-09-08,Musim Gugur,2012,September,Sabtu,Tidak,Tidak,Kabut/Berawan,27.025847,30.556050000000003,Hangat,79.91669999999999,Sangat Lembap,18.833968000000002,Sepoi Sepoi,1557,4419,5976
+618,2012-09-09,Musim Gugur,2012,September,Minggu,Tidak,Tidak,Cerah/Berawan,25.009999999999998,28.946250000000003,Hangat,54.75,Nyaman,15.041232,Sepoi Sepoi,2570,5657,8227
+619,2012-09-10,Musim Gugur,2012,September,Senin,Tidak,Ya,Cerah/Berawan,23.916653,28.2827,Hangat,50.375,Nyaman,17.333771000000002,Sepoi Sepoi,1118,6407,7525
+620,2012-09-11,Musim Gugur,2012,September,Selasa,Tidak,Ya,Cerah/Berawan,23.677500000000002,27.7146,Hangat,52.0,Nyaman,6.1676314,Tenang,1070,6697,7767
+621,2012-09-12,Musim Gugur,2012,September,Rabu,Tidak,Ya,Cerah/Berawan,24.565847,28.50375,Hangat,57.7083,Nyaman,8.833682,Tenang,1050,6820,7870
+622,2012-09-13,Musim Gugur,2012,September,Kamis,Tidak,Ya,Cerah/Berawan,25.1125,28.9779,Hangat,63.708299999999994,Lembap,5.5422936,Tenang,1054,6750,7804
+623,2012-09-14,Musim Gugur,2012,September,Jumat,Tidak,Ya,Cerah/Berawan,25.966653,29.704150000000002,Hangat,67.25,Lembap,6.9588209999999995,Tenang,1379,6630,8009
+624,2012-09-15,Musim Gugur,2012,September,Sabtu,Tidak,Tidak,Cerah/Berawan,24.941653000000002,29.29335,Hangat,50.1667,Nyaman,16.583907,Sepoi Sepoi,3160,5554,8714
+625,2012-09-16,Musim Gugur,2012,September,Minggu,Tidak,Tidak,Cerah/Berawan,23.779999999999998,28.15625,Hangat,56.99999999999999,Nyaman,6.042281099999999,Tenang,2166,5167,7333
+626,2012-09-17,Musim Gugur,2012,September,Senin,Tidak,Ya,Kabut/Berawan,23.814153,27.652500000000003,Hangat,73.4583,Lembap,10.166713999999999,Sepoi Sepoi,1022,5847,6869
+627,2012-09-18,Musim Gugur,2012,September,Selasa,Tidak,Ya,Kabut/Berawan,25.556653,28.253349999999998,Hangat,87.25,Ekstrem Lembap,23.958329,Sedang,371,3702,4073
+628,2012-09-19,Musim Gugur,2012,September,Rabu,Tidak,Ya,Cerah/Berawan,22.6525,27.0202,Hangat,53.6667,Nyaman,14.416725,Sepoi Sepoi,788,6803,7591
+629,2012-09-20,Musim Gugur,2012,September,Kamis,Tidak,Ya,Cerah/Berawan,22.413347,26.6096,Hangat,61.8333,Lembap,7.917189,Tenang,939,6781,7720
+630,2012-09-21,Musim Gugur,2012,September,Jumat,Tidak,Ya,Cerah/Berawan,24.565847,28.59855,Hangat,66.875,Lembap,10.333343000000001,Sepoi Sepoi,1250,6917,8167
+631,2012-09-22,Musim Gugur,2012,September,Sabtu,Tidak,Tidak,Cerah/Berawan,26.650000000000002,30.5244,Hangat,64.6667,Lembap,19.000061,Sepoi Sepoi,2512,5883,8395
+632,2012-09-23,Musim Gugur,2012,September,Minggu,Tidak,Tidak,Cerah/Berawan,21.695847,25.946649999999998,Hangat,46.7083,Nyaman,14.958286000000001,Sepoi Sepoi,2454,5453,7907
+633,2012-09-24,Musim Gugur,2012,September,Senin,Tidak,Ya,Cerah/Berawan,21.080847000000002,25.12565,Hangat,49.2917,Nyaman,9.541068000000001,Tenang,1001,6435,7436
+634,2012-09-25,Musim Gugur,2012,September,Selasa,Tidak,Ya,Cerah/Berawan,22.55,27.208949999999998,Hangat,56.99999999999999,Nyaman,15.833507,Sepoi Sepoi,845,6693,7538
+635,2012-09-26,Musim Gugur,2012,September,Rabu,Tidak,Ya,Cerah/Berawan,26.035,29.83065,Hangat,63.083299999999994,Lembap,16.3748,Sepoi Sepoi,787,6946,7733
+636,2012-09-27,Musim Gugur,2012,September,Kamis,Tidak,Ya,Kabut/Berawan,26.650000000000002,30.398750000000003,Hangat,69.08330000000001,Lembap,9.000914,Tenang,751,6642,7393
+637,2012-09-28,Musim Gugur,2012,September,Jumat,Tidak,Ya,Kabut/Berawan,25.385847000000002,29.29315,Hangat,69.0,Lembap,10.999993,Sepoi Sepoi,1045,6370,7415
+638,2012-09-29,Musim Gugur,2012,September,Sabtu,Tidak,Tidak,Cerah/Berawan,22.2425,26.5148,Hangat,54.2917,Nyaman,15.249468,Sepoi Sepoi,2589,5966,8555
+639,2012-09-30,Musim Gugur,2012,September,Minggu,Tidak,Tidak,Cerah/Berawan,21.593347,25.88315,Hangat,58.3333,Nyaman,9.042186,Tenang,2015,4874,6889
+640,2012-10-01,Musim Gugur,2012,Oktober,Senin,Tidak,Ya,Kabut/Berawan,21.354153,25.6,Hangat,64.9167,Lembap,6.0838814,Tenang,763,6015,6778
+641,2012-10-02,Musim Gugur,2012,Oktober,Selasa,Tidak,Ya,Hujan/Salju Ringan,24.224153,27.116649999999996,Hangat,87.16669999999999,Ekstrem Lembap,6.9998249999999995,Tenang,315,4324,4639
+642,2012-10-03,Musim Gugur,2012,Oktober,Rabu,Tidak,Ya,Kabut/Berawan,26.9575,29.95665,Hangat,79.375,Sangat Lembap,4.4585686,Tenang,728,6844,7572
+643,2012-10-04,Musim Gugur,2012,Oktober,Kamis,Tidak,Ya,Kabut/Berawan,26.9575,30.398750000000003,Hangat,72.2917,Lembap,7.875582,Tenang,891,6437,7328
+644,2012-10-05,Musim Gugur,2012,Oktober,Jumat,Tidak,Ya,Cerah/Berawan,25.215,29.00935,Hangat,62.74999999999999,Lembap,7.12545,Tenang,1516,6640,8156
+645,2012-10-06,Musim Gugur,2012,Oktober,Sabtu,Tidak,Tidak,Cerah/Berawan,22.720847,26.92605,Hangat,66.41669999999999,Lembap,17.957675000000002,Sepoi Sepoi,3031,4934,7965
+646,2012-10-07,Musim Gugur,2012,Oktober,Minggu,Tidak,Tidak,Kabut/Berawan,17.049153,20.99065,Nyaman,70.8333,Lembap,9.457854000000001,Tenang,781,2729,3510
+647,2012-10-08,Musim Gugur,2012,Oktober,Senin,Ya,Tidak,Kabut/Berawan,15.716652999999999,19.3804,Nyaman,70.9583,Lembap,12.708492999999999,Sepoi Sepoi,874,4604,5478
+648,2012-10-09,Musim Gugur,2012,Oktober,Selasa,Tidak,Ya,Kabut/Berawan,18.313347,21.9056,Nyaman,76.16669999999999,Sangat Lembap,12.7501,Sepoi Sepoi,601,5791,6392
+649,2012-10-10,Musim Gugur,2012,Oktober,Rabu,Tidak,Ya,Cerah/Berawan,21.080847000000002,25.1571,Hangat,63.083299999999994,Lembap,12.584007,Sepoi Sepoi,780,6911,7691
+650,2012-10-11,Musim Gugur,2012,Oktober,Kamis,Tidak,Ya,Cerah/Berawan,17.835,21.55835,Nyaman,46.3333,Nyaman,12.166932000000001,Sepoi Sepoi,834,6736,7570
+651,2012-10-12,Musim Gugur,2012,Oktober,Jumat,Tidak,Ya,Cerah/Berawan,17.9375,21.65355,Nyaman,53.91669999999999,Nyaman,15.751164,Sepoi Sepoi,1060,6222,7282
+652,2012-10-13,Musim Gugur,2012,Oktober,Sabtu,Tidak,Tidak,Cerah/Berawan,16.126653,19.5698,Nyaman,49.4583,Nyaman,9.791514,Tenang,2252,4857,7109
+653,2012-10-14,Musim Gugur,2012,Oktober,Minggu,Tidak,Tidak,Cerah/Berawan,21.388347,25.4102,Hangat,64.0417,Lembap,18.667004000000002,Sepoi Sepoi,2080,4559,6639
+654,2012-10-15,Musim Gugur,2012,Oktober,Senin,Tidak,Ya,Kabut/Berawan,23.028347,26.9575,Hangat,70.75,Lembap,19.834478999999998,Sepoi Sepoi,760,5115,5875
+655,2012-10-16,Musim Gugur,2012,Oktober,Selasa,Tidak,Ya,Cerah/Berawan,19.201653,23.042299999999997,Nyaman,55.833299999999994,Nyaman,12.208807,Sepoi Sepoi,922,6612,7534
+656,2012-10-17,Musim Gugur,2012,Oktober,Rabu,Tidak,Ya,Cerah/Berawan,18.689153,22.5054,Nyaman,69.2917,Lembap,6.791857,Tenang,979,6482,7461
+657,2012-10-18,Musim Gugur,2012,Oktober,Kamis,Tidak,Ya,Kabut/Berawan,21.4225,25.63125,Hangat,72.8333,Lembap,15.874779,Sepoi Sepoi,1008,6501,7509
+658,2012-10-19,Musim Gugur,2012,Oktober,Jumat,Tidak,Ya,Kabut/Berawan,23.096653,26.894800000000004,Hangat,81.5,Sangat Lembap,9.041917999999999,Tenang,753,4671,5424
+659,2012-10-20,Musim Gugur,2012,Oktober,Sabtu,Tidak,Tidak,Cerah/Berawan,19.850847,23.6421,Nyaman,57.2917,Nyaman,7.874979,Tenang,2806,5284,8090
+660,2012-10-21,Musim Gugur,2012,Oktober,Minggu,Tidak,Tidak,Cerah/Berawan,19.030847,22.82145,Nyaman,51.0,Nyaman,11.125618000000001,Sepoi Sepoi,2132,4692,6824
+661,2012-10-22,Musim Gugur,2012,Oktober,Senin,Tidak,Ya,Cerah/Berawan,19.9875,24.1471,Nyaman,56.833299999999994,Nyaman,5.4593811,Tenang,830,6228,7058
+662,2012-10-23,Musim Gugur,2012,Oktober,Selasa,Tidak,Ya,Cerah/Berawan,22.310847,26.5152,Hangat,64.16669999999999,Lembap,6.3345686,Tenang,841,6625,7466
+663,2012-10-24,Musim Gugur,2012,Oktober,Rabu,Tidak,Ya,Cerah/Berawan,24.087500000000002,27.93605,Hangat,63.625,Lembap,4.8762064,Tenang,795,6898,7693
+664,2012-10-25,Musim Gugur,2012,Oktober,Kamis,Tidak,Ya,Kabut/Berawan,22.55,26.4844,Hangat,80.0417,Sangat Lembap,8.333125,Tenang,875,6484,7359
+665,2012-10-26,Musim Gugur,2012,Oktober,Jumat,Tidak,Ya,Kabut/Berawan,22.379153000000002,26.137500000000003,Hangat,80.7083,Sangat Lembap,8.875289,Tenang,1182,6262,7444
+666,2012-10-27,Musim Gugur,2012,Oktober,Sabtu,Tidak,Tidak,Kabut/Berawan,21.73,25.756649999999997,Hangat,72.0,Lembap,15.791364000000002,Sepoi Sepoi,2643,5209,7852
+667,2012-10-28,Musim Gugur,2012,Oktober,Minggu,Tidak,Tidak,Kabut/Berawan,19.5775,23.38855,Nyaman,69.4583,Lembap,26.666535999999997,Sedang,998,3461,4459
+668,2012-10-29,Musim Gugur,2012,Oktober,Senin,Tidak,Ya,Hujan/Salju Ringan,18.04,21.97,Nyaman,88.0,Ekstrem Lembap,23.9994,Sedang,2,20,22
+669,2012-10-30,Musim Gugur,2012,Oktober,Selasa,Tidak,Ya,Kabut/Berawan,13.045462,15.49545,Nyaman,82.5455,Sangat Lembap,14.271603,Sepoi Sepoi,87,1009,1096
+670,2012-10-31,Musim Gugur,2012,Oktober,Rabu,Tidak,Ya,Kabut/Berawan,14.657499999999999,18.055,Nyaman,66.6667,Lembap,11.166689,Sepoi Sepoi,419,5147,5566
+671,2012-11-01,Musim Gugur,2012,November,Kamis,Tidak,Ya,Kabut/Berawan,14.999153000000002,18.4971,Nyaman,58.166700000000006,Nyaman,10.542182,Sepoi Sepoi,466,5520,5986
+672,2012-11-02,Musim Gugur,2012,November,Jumat,Tidak,Ya,Cerah/Berawan,14.555,17.802100000000003,Nyaman,52.208299999999994,Nyaman,17.833725,Sepoi Sepoi,618,5229,5847
+673,2012-11-03,Musim Gugur,2012,November,Sabtu,Tidak,Tidak,Kabut/Berawan,14.076653,16.1923,Nyaman,49.125,Nyaman,18.125443,Sepoi Sepoi,1029,4109,5138
+674,2012-11-04,Musim Gugur,2012,November,Minggu,Tidak,Tidak,Cerah/Berawan,13.359153,16.4769,Nyaman,53.2917,Nyaman,12.000236,Sepoi Sepoi,1201,3906,5107
+675,2012-11-05,Musim Gugur,2012,November,Senin,Tidak,Ya,Cerah/Berawan,13.085847,15.403749999999999,Nyaman,49.416700000000006,Nyaman,15.833775000000001,Sepoi Sepoi,378,4881,5259
+676,2012-11-06,Musim Gugur,2012,November,Selasa,Tidak,Ya,Cerah/Berawan,11.514153,14.07835,Dingin,56.7083,Nyaman,11.625371,Sepoi Sepoi,466,5220,5686
+677,2012-11-07,Musim Gugur,2012,November,Rabu,Tidak,Ya,Kabut/Berawan,12.129153,13.73105,Dingin,54.75,Nyaman,20.375236,Sedang,326,4709,5035
+678,2012-11-08,Musim Gugur,2012,November,Kamis,Tidak,Ya,Cerah/Berawan,14.439134,17.09455,Nyaman,33.3478,Kering,23.304945,Sedang,340,4975,5315
+679,2012-11-09,Musim Gugur,2012,November,Jumat,Tidak,Ya,Cerah/Berawan,14.828347,17.77065,Nyaman,54.0833,Nyaman,14.375386,Sepoi Sepoi,709,5283,5992
+680,2012-11-10,Musim Gugur,2012,November,Sabtu,Tidak,Tidak,Cerah/Berawan,15.955846999999999,19.696849999999998,Nyaman,64.5417,Lembap,3.8756686,Tenang,2090,4446,6536
+681,2012-11-11,Musim Gugur,2012,November,Minggu,Tidak,Tidak,Cerah/Berawan,17.254153000000002,21.08565,Nyaman,65.91669999999999,Lembap,8.5425,Tenang,2290,4562,6852
+682,2012-11-12,Musim Gugur,2012,November,Senin,Ya,Tidak,Cerah/Berawan,19.884999999999998,23.76915,Nyaman,74.16669999999999,Lembap,11.625639,Sepoi Sepoi,1097,5172,6269
+683,2012-11-13,Musim Gugur,2012,November,Selasa,Tidak,Ya,Kabut/Berawan,14.076653,16.16125,Nyaman,66.29169999999999,Lembap,22.917082,Sedang,327,3767,4094
+684,2012-11-14,Musim Gugur,2012,November,Rabu,Tidak,Ya,Cerah/Berawan,11.855847,14.07815,Dingin,55.2083,Nyaman,13.374875,Sepoi Sepoi,373,5122,5495
+685,2012-11-15,Musim Gugur,2012,November,Kamis,Tidak,Ya,Kabut/Berawan,13.188346999999998,16.2246,Nyaman,62.0417,Lembap,10.250129000000001,Sepoi Sepoi,320,5125,5445
+686,2012-11-16,Musim Gugur,2012,November,Jumat,Tidak,Ya,Cerah/Berawan,14.145,17.3602,Nyaman,52.4583,Nyaman,11.458675000000001,Sepoi Sepoi,484,5214,5698
+687,2012-11-17,Musim Gugur,2012,November,Sabtu,Tidak,Tidak,Cerah/Berawan,13.325000000000001,16.31915,Nyaman,54.541700000000006,Nyaman,12.041843,Sepoi Sepoi,1313,4316,5629
+688,2012-11-18,Musim Gugur,2012,November,Minggu,Tidak,Tidak,Cerah/Berawan,14.0425,16.8873,Nyaman,69.2917,Lembap,15.250004,Sepoi Sepoi,922,3747,4669
+689,2012-11-19,Musim Gugur,2012,November,Senin,Tidak,Ya,Kabut/Berawan,15.614152999999998,18.78105,Nyaman,62.3333,Lembap,15.749489,Sepoi Sepoi,449,5050,5499
+690,2012-11-20,Musim Gugur,2012,November,Selasa,Tidak,Ya,Kabut/Berawan,15.340847000000002,19.03335,Nyaman,68.5,Lembap,5.542575,Tenang,534,5100,5634
+691,2012-11-21,Musim Gugur,2012,November,Rabu,Tidak,Ya,Cerah/Berawan,14.486653,18.2446,Nyaman,61.375,Lembap,6.917482000000001,Tenang,615,4531,5146
+692,2012-11-22,Musim Gugur,2012,November,Kamis,Ya,Tidak,Cerah/Berawan,13.940000000000001,17.518549999999998,Nyaman,58.0417,Nyaman,3.5423436,Tenang,955,1470,2425
+693,2012-11-23,Musim Gugur,2012,November,Jumat,Tidak,Ya,Cerah/Berawan,15.101653,18.93895,Nyaman,56.875,Nyaman,9.917407,Tenang,1603,2307,3910
+694,2012-11-24,Musim Gugur,2012,November,Sabtu,Tidak,Tidak,Cerah/Berawan,11.411653,12.4371,Dingin,40.4583,Nyaman,25.250357,Sedang,532,1745,2277
+695,2012-11-25,Musim Gugur,2012,November,Minggu,Tidak,Tidak,Cerah/Berawan,10.079153,12.879150000000001,Dingin,46.8333,Nyaman,10.083499999999999,Sepoi Sepoi,309,2115,2424
+696,2012-11-26,Musim Gugur,2012,November,Senin,Tidak,Ya,Cerah/Berawan,12.846652999999998,16.950200000000002,Nyaman,53.541700000000006,Nyaman,3.1255499999999996,Tenang,337,4750,5087
+697,2012-11-27,Musim Gugur,2012,November,Selasa,Tidak,Ya,Kabut/Berawan,11.958347,14.0779,Dingin,78.6667,Sangat Lembap,15.916654,Sepoi Sepoi,123,3836,3959
+698,2012-11-28,Musim Gugur,2012,November,Rabu,Tidak,Ya,Cerah/Berawan,12.163347,14.488100000000001,Dingin,50.625,Nyaman,14.125007,Sepoi Sepoi,198,5062,5260
+699,2012-11-29,Musim Gugur,2012,November,Kamis,Tidak,Ya,Cerah/Berawan,11.51567,14.921100000000001,Dingin,55.565200000000004,Nyaman,7.739974,Tenang,243,5080,5323
+700,2012-11-30,Musim Gugur,2012,November,Jumat,Tidak,Ya,Cerah/Berawan,12.231653000000001,16.193350000000002,Nyaman,64.95830000000001,Lembap,3.9175436,Tenang,362,5306,5668
+701,2012-12-01,Musim Dingin,2012,Desember,Sabtu,Tidak,Tidak,Kabut/Berawan,12.231653000000001,15.8452,Nyaman,80.6667,Sangat Lembap,4.0001814,Tenang,951,4240,5191
+702,2012-12-02,Musim Dingin,2012,Desember,Minggu,Tidak,Tidak,Kabut/Berawan,14.247499999999999,17.9604,Nyaman,82.3333,Sangat Lembap,8.333393000000001,Tenang,892,3757,4649
+703,2012-12-03,Musim Dingin,2012,Desember,Senin,Tidak,Ya,Cerah/Berawan,18.552500000000002,22.7898,Nyaman,76.75,Sangat Lembap,5.5422936,Tenang,555,5679,6234
+704,2012-12-04,Musim Dingin,2012,Desember,Selasa,Tidak,Ya,Cerah/Berawan,19.509153,23.4527,Nyaman,73.375,Lembap,11.666643,Sepoi Sepoi,551,6055,6606
+705,2012-12-05,Musim Dingin,2012,Desember,Rabu,Tidak,Ya,Cerah/Berawan,17.971653,21.4006,Nyaman,48.5,Nyaman,21.709407,Sedang,331,5398,5729
+706,2012-12-06,Musim Dingin,2012,Desember,Kamis,Tidak,Ya,Cerah/Berawan,10.489152999999998,12.9102,Dingin,50.875,Nyaman,11.708518,Sepoi Sepoi,340,5035,5375
+707,2012-12-07,Musim Dingin,2012,Desember,Jumat,Tidak,Ya,Kabut/Berawan,13.154152999999999,16.097900000000003,Nyaman,76.4167,Sangat Lembap,8.7502,Tenang,349,4659,5008
+708,2012-12-08,Musim Dingin,2012,Desember,Sabtu,Tidak,Tidak,Kabut/Berawan,15.648347,19.4754,Nyaman,91.125,Ekstrem Lembap,6.792393,Tenang,1153,4429,5582
+709,2012-12-09,Musim Dingin,2012,Desember,Minggu,Tidak,Tidak,Kabut/Berawan,15.750846999999998,19.5073,Nyaman,90.5417,Ekstrem Lembap,10.584325,Sepoi Sepoi,441,2787,3228
+710,2012-12-10,Musim Dingin,2012,Desember,Senin,Tidak,Ya,Kabut/Berawan,17.869153,21.77875,Nyaman,92.5,Ekstrem Lembap,12.750636,Sepoi Sepoi,329,4841,5170
+711,2012-12-11,Musim Dingin,2012,Desember,Selasa,Tidak,Ya,Kabut/Berawan,14.486653,16.91815,Nyaman,59.66669999999999,Nyaman,19.834478999999998,Sepoi Sepoi,282,5219,5501
+712,2012-12-12,Musim Dingin,2012,Desember,Rabu,Tidak,Ya,Kabut/Berawan,12.1975,14.8669,Dingin,53.833299999999994,Nyaman,10.916779,Sepoi Sepoi,310,5009,5319
+713,2012-12-13,Musim Dingin,2012,Desember,Kamis,Tidak,Ya,Cerah/Berawan,12.129153,14.7094,Dingin,48.5833,Nyaman,11.666643,Sepoi Sepoi,425,5107,5532
+714,2012-12-14,Musim Dingin,2012,Desember,Jumat,Tidak,Ya,Cerah/Berawan,11.548347,14.7096,Dingin,64.29169999999999,Lembap,8.792343,Tenang,429,5182,5611
+715,2012-12-15,Musim Dingin,2012,Desember,Sabtu,Tidak,Tidak,Cerah/Berawan,13.290847,16.91915,Nyaman,65.0417,Lembap,7.12545,Tenang,767,4280,5047
+716,2012-12-16,Musim Dingin,2012,Desember,Minggu,Tidak,Tidak,Kabut/Berawan,14.862499999999999,18.4969,Nyaman,83.875,Sangat Lembap,6.749714,Tenang,538,3248,3786
+717,2012-12-17,Musim Dingin,2012,Desember,Senin,Tidak,Ya,Kabut/Berawan,16.126653,20.075000000000003,Nyaman,90.7083,Ekstrem Lembap,6.583306100000001,Tenang,212,4373,4585
+718,2012-12-18,Musim Dingin,2012,Desember,Selasa,Tidak,Ya,Cerah/Berawan,16.844153,20.485400000000002,Nyaman,66.625,Lembap,14.834067999999998,Sepoi Sepoi,433,5124,5557
+719,2012-12-19,Musim Dingin,2012,Desember,Rabu,Tidak,Ya,Cerah/Berawan,13.6325,17.1081,Nyaman,62.5417,Lembap,12.334164000000001,Sepoi Sepoi,333,4934,5267
+720,2012-12-20,Musim Dingin,2012,Desember,Kamis,Tidak,Ya,Kabut/Berawan,13.530000000000001,16.760849999999998,Nyaman,66.79169999999999,Lembap,8.875021,Tenang,314,3814,4128
+721,2012-12-21,Musim Dingin,2012,Desember,Jumat,Tidak,Ya,Kabut/Berawan,13.393346999999999,15.08835,Nyaman,55.666700000000006,Nyaman,25.083661000000003,Sedang,221,3402,3623
+722,2012-12-22,Musim Dingin,2012,Desember,Sabtu,Tidak,Tidak,Cerah/Berawan,10.899153,11.80565,Dingin,44.125,Nyaman,27.292182,Sedang,205,1544,1749
+723,2012-12-23,Musim Dingin,2012,Desember,Minggu,Tidak,Tidak,Cerah/Berawan,10.079153,12.97355,Dingin,51.5417,Nyaman,8.916561,Tenang,408,1379,1787
+724,2012-12-24,Musim Dingin,2012,Desember,Senin,Tidak,Ya,Kabut/Berawan,9.483464,12.945,Dingin,79.1304,Sangat Lembap,5.1744368000000005,Tenang,174,746,920
+725,2012-12-25,Musim Dingin,2012,Desember,Selasa,Ya,Tidak,Kabut/Berawan,11.943464,14.723249999999998,Dingin,73.47829999999999,Lembap,11.304642,Sepoi Sepoi,440,573,1013
+726,2012-12-26,Musim Dingin,2012,Desember,Rabu,Tidak,Ya,Hujan/Salju Ringan,9.976652999999999,11.01665,Dingin,82.3333,Sangat Lembap,21.208582,Sedang,9,432,441
+727,2012-12-27,Musim Dingin,2012,Desember,Kamis,Tidak,Ya,Kabut/Berawan,10.420846999999998,11.3321,Dingin,65.29169999999999,Lembap,23.458911,Sedang,247,1867,2114
+728,2012-12-28,Musim Dingin,2012,Desember,Jumat,Tidak,Ya,Kabut/Berawan,10.386652999999999,12.7523,Dingin,59.0,Nyaman,10.416557,Sepoi Sepoi,644,2451,3095
+729,2012-12-29,Musim Dingin,2012,Desember,Sabtu,Tidak,Tidak,Kabut/Berawan,10.386652999999999,12.120000000000001,Dingin,75.29169999999999,Sangat Lembap,8.333661,Tenang,159,1182,1341
+730,2012-12-30,Musim Dingin,2012,Desember,Minggu,Tidak,Tidak,Cerah/Berawan,10.489152999999998,11.584999999999999,Dingin,48.3333,Nyaman,23.500518,Sedang,364,1432,1796
+731,2012-12-31,Musim Dingin,2012,Desember,Senin,Tidak,Ya,Kabut/Berawan,8.849153,11.17435,Dingin,57.75,Nyaman,10.374682,Sepoi Sepoi,439,2290,2729
